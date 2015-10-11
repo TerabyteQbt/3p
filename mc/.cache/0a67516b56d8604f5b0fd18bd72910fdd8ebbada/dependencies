@@ -1,0 +1,9 @@
+ant:ant:1.6.2
+commons-net:commons-net:1.4.1
+commons-logging:commons-logging:1.0.4
+commons-collections:commons-collections:3.1
+jdom:jdom:1.0
+commons-httpclient:commons-httpclient:2.0.2
+com.jcraft:jsch:0.1.23
+xml-apis:xml-apis:1.0.b2
+oro:oro:2.0.8

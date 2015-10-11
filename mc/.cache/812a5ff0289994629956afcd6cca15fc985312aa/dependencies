@@ -1,0 +1,2 @@
+org.apache.maven.shared:maven-plugin-testing-harness:1.1
+junit:junit:3.8.2

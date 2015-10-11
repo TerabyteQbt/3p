@@ -1,0 +1,5 @@
+com.jcraft:jsch.agentproxy.core:0.0.6
+com.jcraft:jsch.agentproxy.usocket-jna:0.0.6
+com.jcraft:jsch.agentproxy.usocket-nc:0.0.6
+com.jcraft:jsch.agentproxy.sshagent:0.0.6
+com.jcraft:jsch.agentproxy.pageant:0.0.6

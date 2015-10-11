@@ -1,0 +1,5 @@
+xerces:xercesImpl:2.6.0
+xml-apis:xml-apis:1.0.b2
+jaxen:jaxen:1.0-FCS
+saxpath:saxpath:1.0-FCS
+xalan:xalan:2.5.0

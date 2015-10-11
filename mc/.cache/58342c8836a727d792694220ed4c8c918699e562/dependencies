@@ -1,0 +1,4 @@
+log4j:log4j:1.2.17
+junit:junit:3.8.1
+hsqldb:hsqldb:1.8.0.7
+org.apache.geronimo.specs:geronimo-jms_1.1_spec:1.0
