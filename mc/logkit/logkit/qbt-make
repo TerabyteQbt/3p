@@ -4,4 +4,3 @@
 
 set -e
 cp -R $PACKAGE_DIR/src/* $OUTPUT_ARTIFACTS_DIR/
-$INPUT_ARTIFACTS_DIR/weak/qbt_fringe.link_checker.release/strong/qbt_fringe.link_checker.release/bin/link_checker --qbtDefaults --whitelistFrom org/apache/log/format/AvalonFormatter --whitelistFrom org/apache/log/output/ServletOutputLogTarget --whitelistFrom org/apache/log/output/jms/JMSQueueTarget --whitelistFrom org/apache/log/output/jms/JMSTopicTarget --whitelistFrom org/apache/log/output/jms/ObjectMessageBuilder --whitelistFrom org/apache/log/output/jms/TextMessageBuilder

@@ -4,4 +4,3 @@
 
 set -e
 cp -R $PACKAGE_DIR/src/* $OUTPUT_ARTIFACTS_DIR/
-$INPUT_ARTIFACTS_DIR/weak/qbt_fringe.link_checker.release/strong/qbt_fringe.link_checker.release/bin/link_checker --qbtDefaults --whitelistFrom net
