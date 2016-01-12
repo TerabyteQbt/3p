@@ -10,10 +10,3 @@ com.jcraft:jsch.agentproxy.connector-factory:0.0.6
 com.jcraft:jsch.agentproxy.jsch:0.0.6
 org.bouncycastle:bcpg-jdk14:1.45
 org.bouncycastle:bcprov-jdk14:1.45
-junit:junit:3.8.2
-commons-lang:commons-lang:2.6
-org.apache.ant:ant-testutil:1.7.0
-ant:ant-launcher:1.6.2
-ant-contrib:ant-contrib:1.0b3
-xerces:xercesImpl:2.6.2
-xerces:xmlParserAPIs:2.6.2
