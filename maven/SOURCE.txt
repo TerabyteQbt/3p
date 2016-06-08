@@ -1,0 +1,5 @@
+This is a binary distribution downloaded from https://maven.apache.org/download.cgi on 2016-06-08
+
+Maven 3.3.9 binary tar.gz archive
+
+This file is the only thing added to the contents of the tarball
