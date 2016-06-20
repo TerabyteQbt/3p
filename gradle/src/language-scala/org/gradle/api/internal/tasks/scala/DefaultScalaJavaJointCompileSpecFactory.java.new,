@@ -1,0 +1,1 @@
+./3p/gradle/src/language-scala/org/gradle/api/internal/tasks/scala/DefaultScalaJavaJointCompileSpecFactory.java mv ./3p/gradle/src/language-scala/org/gradle/api/internal/tasks/scala/DefaultScalaJavaJointCompileSpecFactory.java.new ./3p/gradle/src/language-scala/org/gradle/api/internal/tasks/scala/DefaultScalaJavaJointCompileSpecFactory.java

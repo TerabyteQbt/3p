@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/reporting/TabsRenderer.java mv ./3p/gradle/src/core/org/gradle/reporting/TabsRenderer.java.new ./3p/gradle/src/core/org/gradle/reporting/TabsRenderer.java

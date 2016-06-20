@@ -1,0 +1,1 @@
+./3p/gradle/src/platform-native/org/gradle/nativeplatform/internal/BinaryToolSpec.java mv ./3p/gradle/src/platform-native/org/gradle/nativeplatform/internal/BinaryToolSpec.java.new ./3p/gradle/src/platform-native/org/gradle/nativeplatform/internal/BinaryToolSpec.java

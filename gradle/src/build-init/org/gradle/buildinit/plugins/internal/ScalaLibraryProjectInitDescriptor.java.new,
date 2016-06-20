@@ -1,0 +1,1 @@
+./3p/gradle/src/build-init/org/gradle/buildinit/plugins/internal/ScalaLibraryProjectInitDescriptor.java mv ./3p/gradle/src/build-init/org/gradle/buildinit/plugins/internal/ScalaLibraryProjectInitDescriptor.java.new ./3p/gradle/src/build-init/org/gradle/buildinit/plugins/internal/ScalaLibraryProjectInitDescriptor.java

@@ -1,0 +1,1 @@
+./3p/gradle/src/plugin-use/org/gradle/plugin/use/resolve/service/internal/HttpPluginResolutionServiceClient.java mv ./3p/gradle/src/plugin-use/org/gradle/plugin/use/resolve/service/internal/HttpPluginResolutionServiceClient.java.new ./3p/gradle/src/plugin-use/org/gradle/plugin/use/resolve/service/internal/HttpPluginResolutionServiceClient.java

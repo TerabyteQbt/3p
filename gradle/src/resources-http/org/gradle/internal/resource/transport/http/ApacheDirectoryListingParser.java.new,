@@ -1,0 +1,1 @@
+./3p/gradle/src/resources-http/org/gradle/internal/resource/transport/http/ApacheDirectoryListingParser.java mv ./3p/gradle/src/resources-http/org/gradle/internal/resource/transport/http/ApacheDirectoryListingParser.java.new ./3p/gradle/src/resources-http/org/gradle/internal/resource/transport/http/ApacheDirectoryListingParser.java

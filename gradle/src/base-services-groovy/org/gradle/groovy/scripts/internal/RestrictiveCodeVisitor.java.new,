@@ -1,0 +1,1 @@
+./3p/gradle/src/base-services-groovy/org/gradle/groovy/scripts/internal/RestrictiveCodeVisitor.java mv ./3p/gradle/src/base-services-groovy/org/gradle/groovy/scripts/internal/RestrictiveCodeVisitor.java.new ./3p/gradle/src/base-services-groovy/org/gradle/groovy/scripts/internal/RestrictiveCodeVisitor.java

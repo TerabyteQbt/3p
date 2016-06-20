@@ -1,0 +1,1 @@
+./3p/gradle/samples/testing/testng/suitexmlbuilder/src/test/java/org/gradle/testng/UserImplTest.java mv ./3p/gradle/samples/testing/testng/suitexmlbuilder/src/test/java/org/gradle/testng/UserImplTest.java.new ./3p/gradle/samples/testing/testng/suitexmlbuilder/src/test/java/org/gradle/testng/UserImplTest.java

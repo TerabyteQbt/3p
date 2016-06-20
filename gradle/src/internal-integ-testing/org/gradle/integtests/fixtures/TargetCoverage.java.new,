@@ -1,0 +1,1 @@
+./3p/gradle/src/internal-integ-testing/org/gradle/integtests/fixtures/TargetCoverage.java mv ./3p/gradle/src/internal-integ-testing/org/gradle/integtests/fixtures/TargetCoverage.java.new ./3p/gradle/src/internal-integ-testing/org/gradle/integtests/fixtures/TargetCoverage.java

@@ -1,0 +1,1 @@
+./3p/gradle/src/jacoco/org/gradle/testing/jacoco/tasks/package-info.java mv ./3p/gradle/src/jacoco/org/gradle/testing/jacoco/tasks/package-info.java.new ./3p/gradle/src/jacoco/org/gradle/testing/jacoco/tasks/package-info.java

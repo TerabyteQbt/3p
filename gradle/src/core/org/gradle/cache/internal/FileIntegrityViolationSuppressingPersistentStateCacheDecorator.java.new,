@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/cache/internal/FileIntegrityViolationSuppressingPersistentStateCacheDecorator.java mv ./3p/gradle/src/core/org/gradle/cache/internal/FileIntegrityViolationSuppressingPersistentStateCacheDecorator.java.new ./3p/gradle/src/core/org/gradle/cache/internal/FileIntegrityViolationSuppressingPersistentStateCacheDecorator.java

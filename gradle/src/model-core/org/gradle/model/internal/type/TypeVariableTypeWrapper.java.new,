@@ -1,0 +1,1 @@
+./3p/gradle/src/model-core/org/gradle/model/internal/type/TypeVariableTypeWrapper.java mv ./3p/gradle/src/model-core/org/gradle/model/internal/type/TypeVariableTypeWrapper.java.new ./3p/gradle/src/model-core/org/gradle/model/internal/type/TypeVariableTypeWrapper.java

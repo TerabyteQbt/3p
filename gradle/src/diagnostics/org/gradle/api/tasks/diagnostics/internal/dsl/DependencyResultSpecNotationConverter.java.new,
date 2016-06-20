@@ -1,0 +1,1 @@
+./3p/gradle/src/diagnostics/org/gradle/api/tasks/diagnostics/internal/dsl/DependencyResultSpecNotationConverter.java mv ./3p/gradle/src/diagnostics/org/gradle/api/tasks/diagnostics/internal/dsl/DependencyResultSpecNotationConverter.java.new ./3p/gradle/src/diagnostics/org/gradle/api/tasks/diagnostics/internal/dsl/DependencyResultSpecNotationConverter.java

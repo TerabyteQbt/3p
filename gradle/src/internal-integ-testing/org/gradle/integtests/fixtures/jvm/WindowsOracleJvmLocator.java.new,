@@ -1,0 +1,1 @@
+./3p/gradle/src/internal-integ-testing/org/gradle/integtests/fixtures/jvm/WindowsOracleJvmLocator.java mv ./3p/gradle/src/internal-integ-testing/org/gradle/integtests/fixtures/jvm/WindowsOracleJvmLocator.java.new ./3p/gradle/src/internal-integ-testing/org/gradle/integtests/fixtures/jvm/WindowsOracleJvmLocator.java

@@ -1,0 +1,1 @@
+./3p/gradle/src/javascript/org/gradle/plugins/javascript/coffeescript/CoffeeScriptCompileSpec.java mv ./3p/gradle/src/javascript/org/gradle/plugins/javascript/coffeescript/CoffeeScriptCompileSpec.java.new ./3p/gradle/src/javascript/org/gradle/plugins/javascript/coffeescript/CoffeeScriptCompileSpec.java

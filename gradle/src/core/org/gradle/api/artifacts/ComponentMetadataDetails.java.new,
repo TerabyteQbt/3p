@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/api/artifacts/ComponentMetadataDetails.java mv ./3p/gradle/src/core/org/gradle/api/artifacts/ComponentMetadataDetails.java.new ./3p/gradle/src/core/org/gradle/api/artifacts/ComponentMetadataDetails.java

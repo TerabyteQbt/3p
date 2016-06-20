@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/internal/service/scopes/BuildScopeServices.java mv ./3p/gradle/src/core/org/gradle/internal/service/scopes/BuildScopeServices.java.new ./3p/gradle/src/core/org/gradle/internal/service/scopes/BuildScopeServices.java

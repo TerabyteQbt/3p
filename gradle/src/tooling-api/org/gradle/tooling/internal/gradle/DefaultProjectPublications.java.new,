@@ -1,0 +1,1 @@
+./3p/gradle/src/tooling-api/org/gradle/tooling/internal/gradle/DefaultProjectPublications.java mv ./3p/gradle/src/tooling-api/org/gradle/tooling/internal/gradle/DefaultProjectPublications.java.new ./3p/gradle/src/tooling-api/org/gradle/tooling/internal/gradle/DefaultProjectPublications.java

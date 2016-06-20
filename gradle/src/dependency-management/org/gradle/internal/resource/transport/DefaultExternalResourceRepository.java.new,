@@ -1,0 +1,1 @@
+./3p/gradle/src/dependency-management/org/gradle/internal/resource/transport/DefaultExternalResourceRepository.java mv ./3p/gradle/src/dependency-management/org/gradle/internal/resource/transport/DefaultExternalResourceRepository.java.new ./3p/gradle/src/dependency-management/org/gradle/internal/resource/transport/DefaultExternalResourceRepository.java

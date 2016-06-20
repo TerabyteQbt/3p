@@ -1,0 +1,1 @@
+./3p/gradle/src/language-java/org/gradle/api/internal/tasks/compile/incremental/jar/JarChangeProcessor.java mv ./3p/gradle/src/language-java/org/gradle/api/internal/tasks/compile/incremental/jar/JarChangeProcessor.java.new ./3p/gradle/src/language-java/org/gradle/api/internal/tasks/compile/incremental/jar/JarChangeProcessor.java

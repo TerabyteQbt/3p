@@ -1,0 +1,1 @@
+./3p/gradle/src/ui/org/gradle/foundation/ipc/gradle/AbstractGradleServerProtocol.java mv ./3p/gradle/src/ui/org/gradle/foundation/ipc/gradle/AbstractGradleServerProtocol.java.new ./3p/gradle/src/ui/org/gradle/foundation/ipc/gradle/AbstractGradleServerProtocol.java

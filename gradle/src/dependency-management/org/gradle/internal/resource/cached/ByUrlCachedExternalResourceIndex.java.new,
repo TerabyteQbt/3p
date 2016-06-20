@@ -1,0 +1,1 @@
+./3p/gradle/src/dependency-management/org/gradle/internal/resource/cached/ByUrlCachedExternalResourceIndex.java mv ./3p/gradle/src/dependency-management/org/gradle/internal/resource/cached/ByUrlCachedExternalResourceIndex.java.new ./3p/gradle/src/dependency-management/org/gradle/internal/resource/cached/ByUrlCachedExternalResourceIndex.java

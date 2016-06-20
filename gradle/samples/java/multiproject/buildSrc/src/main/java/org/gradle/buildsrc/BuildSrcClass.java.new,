@@ -1,0 +1,1 @@
+./3p/gradle/samples/java/multiproject/buildSrc/src/main/java/org/gradle/buildsrc/BuildSrcClass.java mv ./3p/gradle/samples/java/multiproject/buildSrc/src/main/java/org/gradle/buildsrc/BuildSrcClass.java.new ./3p/gradle/samples/java/multiproject/buildSrc/src/main/java/org/gradle/buildsrc/BuildSrcClass.java

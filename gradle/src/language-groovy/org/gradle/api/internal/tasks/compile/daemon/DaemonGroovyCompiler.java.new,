@@ -1,0 +1,1 @@
+./3p/gradle/src/language-groovy/org/gradle/api/internal/tasks/compile/daemon/DaemonGroovyCompiler.java mv ./3p/gradle/src/language-groovy/org/gradle/api/internal/tasks/compile/daemon/DaemonGroovyCompiler.java.new ./3p/gradle/src/language-groovy/org/gradle/api/internal/tasks/compile/daemon/DaemonGroovyCompiler.java

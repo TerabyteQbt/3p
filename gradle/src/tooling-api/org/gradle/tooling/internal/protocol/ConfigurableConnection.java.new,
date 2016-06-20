@@ -1,0 +1,1 @@
+./3p/gradle/src/tooling-api/org/gradle/tooling/internal/protocol/ConfigurableConnection.java mv ./3p/gradle/src/tooling-api/org/gradle/tooling/internal/protocol/ConfigurableConnection.java.new ./3p/gradle/src/tooling-api/org/gradle/tooling/internal/protocol/ConfigurableConnection.java

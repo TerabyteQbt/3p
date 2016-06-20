@@ -1,0 +1,1 @@
+./3p/gradle/samples/newJavaPlugin/targetplatforms/core/src/main/java6/org/gradle/Person6.java mv ./3p/gradle/samples/newJavaPlugin/targetplatforms/core/src/main/java6/org/gradle/Person6.java.new ./3p/gradle/samples/newJavaPlugin/targetplatforms/core/src/main/java6/org/gradle/Person6.java

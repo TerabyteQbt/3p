@@ -1,0 +1,1 @@
+./3p/gradle/src/code-quality/org/gradle/api/plugins/quality/internal/CheckstyleReportsImpl.java mv ./3p/gradle/src/code-quality/org/gradle/api/plugins/quality/internal/CheckstyleReportsImpl.java.new ./3p/gradle/src/code-quality/org/gradle/api/plugins/quality/internal/CheckstyleReportsImpl.java

@@ -1,0 +1,1 @@
+./3p/gradle/src/internal-testing/org/gradle/util/ReflectionEqualsMatcher.java mv ./3p/gradle/src/internal-testing/org/gradle/util/ReflectionEqualsMatcher.java.new ./3p/gradle/src/internal-testing/org/gradle/util/ReflectionEqualsMatcher.java

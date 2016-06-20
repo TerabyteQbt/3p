@@ -1,0 +1,1 @@
+./3p/gradle/src/ui/org/gradle/foundation/ipc/gradle/GradleClient.java mv ./3p/gradle/src/ui/org/gradle/foundation/ipc/gradle/GradleClient.java.new ./3p/gradle/src/ui/org/gradle/foundation/ipc/gradle/GradleClient.java

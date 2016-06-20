@@ -1,0 +1,1 @@
+./3p/gradle/src/language-java/org/gradle/language/java/artifact/JavadocArtifact.java mv ./3p/gradle/src/language-java/org/gradle/language/java/artifact/JavadocArtifact.java.new ./3p/gradle/src/language-java/org/gradle/language/java/artifact/JavadocArtifact.java

@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/cache/internal/DefaultCacheFactory.java mv ./3p/gradle/src/core/org/gradle/cache/internal/DefaultCacheFactory.java.new ./3p/gradle/src/core/org/gradle/cache/internal/DefaultCacheFactory.java

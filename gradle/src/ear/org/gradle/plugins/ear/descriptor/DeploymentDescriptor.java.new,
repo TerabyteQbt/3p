@@ -1,0 +1,1 @@
+./3p/gradle/src/ear/org/gradle/plugins/ear/descriptor/DeploymentDescriptor.java mv ./3p/gradle/src/ear/org/gradle/plugins/ear/descriptor/DeploymentDescriptor.java.new ./3p/gradle/src/ear/org/gradle/plugins/ear/descriptor/DeploymentDescriptor.java

@@ -1,0 +1,1 @@
+./3p/gradle/src/dependency-management/org/gradle/internal/resource/transfer/DefaultCacheAwareExternalResourceAccessor.java mv ./3p/gradle/src/dependency-management/org/gradle/internal/resource/transfer/DefaultCacheAwareExternalResourceAccessor.java.new ./3p/gradle/src/dependency-management/org/gradle/internal/resource/transfer/DefaultCacheAwareExternalResourceAccessor.java

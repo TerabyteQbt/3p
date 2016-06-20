@@ -1,0 +1,1 @@
+./3p/gradle/src/launcher/org/gradle/tooling/internal/provider/ShutdownCoordinator.java mv ./3p/gradle/src/launcher/org/gradle/tooling/internal/provider/ShutdownCoordinator.java.new ./3p/gradle/src/launcher/org/gradle/tooling/internal/provider/ShutdownCoordinator.java

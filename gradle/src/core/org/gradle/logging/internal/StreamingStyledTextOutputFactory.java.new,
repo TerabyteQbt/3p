@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/logging/internal/StreamingStyledTextOutputFactory.java mv ./3p/gradle/src/core/org/gradle/logging/internal/StreamingStyledTextOutputFactory.java.new ./3p/gradle/src/core/org/gradle/logging/internal/StreamingStyledTextOutputFactory.java

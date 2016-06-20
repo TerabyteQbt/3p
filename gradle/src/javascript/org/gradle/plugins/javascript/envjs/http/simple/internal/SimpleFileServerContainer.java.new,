@@ -1,0 +1,1 @@
+./3p/gradle/src/javascript/org/gradle/plugins/javascript/envjs/http/simple/internal/SimpleFileServerContainer.java mv ./3p/gradle/src/javascript/org/gradle/plugins/javascript/envjs/http/simple/internal/SimpleFileServerContainer.java.new ./3p/gradle/src/javascript/org/gradle/plugins/javascript/envjs/http/simple/internal/SimpleFileServerContainer.java

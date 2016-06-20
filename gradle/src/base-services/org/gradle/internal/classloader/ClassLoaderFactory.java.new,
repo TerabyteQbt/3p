@@ -1,0 +1,1 @@
+./3p/gradle/src/base-services/org/gradle/internal/classloader/ClassLoaderFactory.java mv ./3p/gradle/src/base-services/org/gradle/internal/classloader/ClassLoaderFactory.java.new ./3p/gradle/src/base-services/org/gradle/internal/classloader/ClassLoaderFactory.java

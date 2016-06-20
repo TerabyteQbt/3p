@@ -1,0 +1,1 @@
+./3p/gradle/samples/toolingApi/customModel/plugin/src/main/java/org/gradle/sample/plugin/DefaultModel.java mv ./3p/gradle/samples/toolingApi/customModel/plugin/src/main/java/org/gradle/sample/plugin/DefaultModel.java.new ./3p/gradle/samples/toolingApi/customModel/plugin/src/main/java/org/gradle/sample/plugin/DefaultModel.java

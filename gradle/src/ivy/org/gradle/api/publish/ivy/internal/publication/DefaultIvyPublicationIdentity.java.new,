@@ -1,0 +1,1 @@
+./3p/gradle/src/ivy/org/gradle/api/publish/ivy/internal/publication/DefaultIvyPublicationIdentity.java mv ./3p/gradle/src/ivy/org/gradle/api/publish/ivy/internal/publication/DefaultIvyPublicationIdentity.java.new ./3p/gradle/src/ivy/org/gradle/api/publish/ivy/internal/publication/DefaultIvyPublicationIdentity.java

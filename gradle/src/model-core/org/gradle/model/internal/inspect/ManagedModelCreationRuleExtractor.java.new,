@@ -1,0 +1,1 @@
+./3p/gradle/src/model-core/org/gradle/model/internal/inspect/ManagedModelCreationRuleExtractor.java mv ./3p/gradle/src/model-core/org/gradle/model/internal/inspect/ManagedModelCreationRuleExtractor.java.new ./3p/gradle/src/model-core/org/gradle/model/internal/inspect/ManagedModelCreationRuleExtractor.java

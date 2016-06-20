@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/api/dsl/ConventionProperty.java mv ./3p/gradle/src/core/org/gradle/api/dsl/ConventionProperty.java.new ./3p/gradle/src/core/org/gradle/api/dsl/ConventionProperty.java

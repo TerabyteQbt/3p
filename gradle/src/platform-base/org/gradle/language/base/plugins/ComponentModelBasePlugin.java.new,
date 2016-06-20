@@ -1,0 +1,1 @@
+./3p/gradle/src/platform-base/org/gradle/language/base/plugins/ComponentModelBasePlugin.java mv ./3p/gradle/src/platform-base/org/gradle/language/base/plugins/ComponentModelBasePlugin.java.new ./3p/gradle/src/platform-base/org/gradle/language/base/plugins/ComponentModelBasePlugin.java

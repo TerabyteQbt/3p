@@ -1,0 +1,1 @@
+./3p/gradle/src/diagnostics/org/gradle/api/tasks/diagnostics/internal/insight/DependencyResultSorter.java mv ./3p/gradle/src/diagnostics/org/gradle/api/tasks/diagnostics/internal/insight/DependencyResultSorter.java.new ./3p/gradle/src/diagnostics/org/gradle/api/tasks/diagnostics/internal/insight/DependencyResultSorter.java

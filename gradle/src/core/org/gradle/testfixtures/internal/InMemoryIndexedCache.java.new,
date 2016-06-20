@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/testfixtures/internal/InMemoryIndexedCache.java mv ./3p/gradle/src/core/org/gradle/testfixtures/internal/InMemoryIndexedCache.java.new ./3p/gradle/src/core/org/gradle/testfixtures/internal/InMemoryIndexedCache.java

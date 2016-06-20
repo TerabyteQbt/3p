@@ -1,0 +1,1 @@
+./3p/gradle/samples/testing/jacoco/quickstart/src/main/java/org/gradle/Person.java mv ./3p/gradle/samples/testing/jacoco/quickstart/src/main/java/org/gradle/Person.java.new ./3p/gradle/samples/testing/jacoco/quickstart/src/main/java/org/gradle/Person.java

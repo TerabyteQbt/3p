@@ -1,0 +1,1 @@
+./3p/gradle/src/native/org/gradle/internal/nativeintegration/filesystem/jdk7/Jdk7FileCanonicalizer.java mv ./3p/gradle/src/native/org/gradle/internal/nativeintegration/filesystem/jdk7/Jdk7FileCanonicalizer.java.new ./3p/gradle/src/native/org/gradle/internal/nativeintegration/filesystem/jdk7/Jdk7FileCanonicalizer.java

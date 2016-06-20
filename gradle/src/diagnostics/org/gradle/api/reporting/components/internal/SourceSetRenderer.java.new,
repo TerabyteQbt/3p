@@ -1,0 +1,1 @@
+./3p/gradle/src/diagnostics/org/gradle/api/reporting/components/internal/SourceSetRenderer.java mv ./3p/gradle/src/diagnostics/org/gradle/api/reporting/components/internal/SourceSetRenderer.java.new ./3p/gradle/src/diagnostics/org/gradle/api/reporting/components/internal/SourceSetRenderer.java

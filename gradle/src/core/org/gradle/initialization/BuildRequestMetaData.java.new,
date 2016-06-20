@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/initialization/BuildRequestMetaData.java mv ./3p/gradle/src/core/org/gradle/initialization/BuildRequestMetaData.java.new ./3p/gradle/src/core/org/gradle/initialization/BuildRequestMetaData.java

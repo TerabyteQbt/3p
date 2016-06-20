@@ -1,0 +1,1 @@
+./3p/gradle/src/platform-jvm/org/gradle/api/java/archives/internal/DefaultAttributes.java mv ./3p/gradle/src/platform-jvm/org/gradle/api/java/archives/internal/DefaultAttributes.java.new ./3p/gradle/src/platform-jvm/org/gradle/api/java/archives/internal/DefaultAttributes.java

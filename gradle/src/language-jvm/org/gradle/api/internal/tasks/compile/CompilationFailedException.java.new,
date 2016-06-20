@@ -1,0 +1,1 @@
+./3p/gradle/src/language-jvm/org/gradle/api/internal/tasks/compile/CompilationFailedException.java mv ./3p/gradle/src/language-jvm/org/gradle/api/internal/tasks/compile/CompilationFailedException.java.new ./3p/gradle/src/language-jvm/org/gradle/api/internal/tasks/compile/CompilationFailedException.java

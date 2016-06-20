@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/logging/LoggingServiceRegistry.java mv ./3p/gradle/src/core/org/gradle/logging/LoggingServiceRegistry.java.new ./3p/gradle/src/core/org/gradle/logging/LoggingServiceRegistry.java

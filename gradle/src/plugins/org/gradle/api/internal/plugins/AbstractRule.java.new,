@@ -1,0 +1,1 @@
+./3p/gradle/src/plugins/org/gradle/api/internal/plugins/AbstractRule.java mv ./3p/gradle/src/plugins/org/gradle/api/internal/plugins/AbstractRule.java.new ./3p/gradle/src/plugins/org/gradle/api/internal/plugins/AbstractRule.java

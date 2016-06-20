@@ -1,0 +1,1 @@
+./3p/gradle/src/model-core/org/gradle/model/internal/inspect/AbstractMutationModelRuleExtractor.java mv ./3p/gradle/src/model-core/org/gradle/model/internal/inspect/AbstractMutationModelRuleExtractor.java.new ./3p/gradle/src/model-core/org/gradle/model/internal/inspect/AbstractMutationModelRuleExtractor.java

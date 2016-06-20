@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/api/internal/initialization/DefaultClassLoaderScope.java mv ./3p/gradle/src/core/org/gradle/api/internal/initialization/DefaultClassLoaderScope.java.new ./3p/gradle/src/core/org/gradle/api/internal/initialization/DefaultClassLoaderScope.java

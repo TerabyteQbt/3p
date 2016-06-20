@@ -1,0 +1,1 @@
+./3p/gradle/src/ide-native/org/gradle/ide/visualstudio/internal/DefaultVisualStudioExtension.java mv ./3p/gradle/src/ide-native/org/gradle/ide/visualstudio/internal/DefaultVisualStudioExtension.java.new ./3p/gradle/src/ide-native/org/gradle/ide/visualstudio/internal/DefaultVisualStudioExtension.java

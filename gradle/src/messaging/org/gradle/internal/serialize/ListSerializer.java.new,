@@ -1,0 +1,1 @@
+./3p/gradle/src/messaging/org/gradle/internal/serialize/ListSerializer.java mv ./3p/gradle/src/messaging/org/gradle/internal/serialize/ListSerializer.java.new ./3p/gradle/src/messaging/org/gradle/internal/serialize/ListSerializer.java

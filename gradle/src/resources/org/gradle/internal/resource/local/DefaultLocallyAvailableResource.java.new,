@@ -1,0 +1,1 @@
+./3p/gradle/src/resources/org/gradle/internal/resource/local/DefaultLocallyAvailableResource.java mv ./3p/gradle/src/resources/org/gradle/internal/resource/local/DefaultLocallyAvailableResource.java.new ./3p/gradle/src/resources/org/gradle/internal/resource/local/DefaultLocallyAvailableResource.java

@@ -1,0 +1,1 @@
+./3p/gradle/src/dependency-management/org/gradle/internal/rules/ClosureBackedRuleAction.java mv ./3p/gradle/src/dependency-management/org/gradle/internal/rules/ClosureBackedRuleAction.java.new ./3p/gradle/src/dependency-management/org/gradle/internal/rules/ClosureBackedRuleAction.java

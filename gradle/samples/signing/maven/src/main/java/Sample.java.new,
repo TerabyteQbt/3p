@@ -1,0 +1,1 @@
+./3p/gradle/samples/signing/maven/src/main/java/Sample.java mv ./3p/gradle/samples/signing/maven/src/main/java/Sample.java.new ./3p/gradle/samples/signing/maven/src/main/java/Sample.java

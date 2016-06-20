@@ -1,0 +1,1 @@
+./3p/gradle/src/resources/org/gradle/authentication/package-info.java mv ./3p/gradle/src/resources/org/gradle/authentication/package-info.java.new ./3p/gradle/src/resources/org/gradle/authentication/package-info.java

@@ -1,0 +1,1 @@
+./3p/gradle/src/model-core/org/gradle/model/internal/registry/NodeAtState.java mv ./3p/gradle/src/model-core/org/gradle/model/internal/registry/NodeAtState.java.new ./3p/gradle/src/model-core/org/gradle/model/internal/registry/NodeAtState.java

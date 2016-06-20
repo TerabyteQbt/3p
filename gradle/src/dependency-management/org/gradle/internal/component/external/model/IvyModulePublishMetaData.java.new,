@@ -1,0 +1,1 @@
+./3p/gradle/src/dependency-management/org/gradle/internal/component/external/model/IvyModulePublishMetaData.java mv ./3p/gradle/src/dependency-management/org/gradle/internal/component/external/model/IvyModulePublishMetaData.java.new ./3p/gradle/src/dependency-management/org/gradle/internal/component/external/model/IvyModulePublishMetaData.java

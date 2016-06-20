@@ -1,0 +1,1 @@
+./3p/gradle/src/platform-base/org/gradle/language/base/internal/SourceTransformTaskConfig.java mv ./3p/gradle/src/platform-base/org/gradle/language/base/internal/SourceTransformTaskConfig.java.new ./3p/gradle/src/platform-base/org/gradle/language/base/internal/SourceTransformTaskConfig.java

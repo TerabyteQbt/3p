@@ -1,0 +1,1 @@
+./3p/gradle/src/platform-native/org/gradle/nativeplatform/test/plugins/NativeBinariesTestPlugin.java mv ./3p/gradle/src/platform-native/org/gradle/nativeplatform/test/plugins/NativeBinariesTestPlugin.java.new ./3p/gradle/src/platform-native/org/gradle/nativeplatform/test/plugins/NativeBinariesTestPlugin.java

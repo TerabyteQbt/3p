@@ -1,0 +1,1 @@
+./3p/gradle/samples/ear/earWithWar/war/src/main/java/org/gradle/sample/SimpleGreeter.java mv ./3p/gradle/samples/ear/earWithWar/war/src/main/java/org/gradle/sample/SimpleGreeter.java.new ./3p/gradle/samples/ear/earWithWar/war/src/main/java/org/gradle/sample/SimpleGreeter.java

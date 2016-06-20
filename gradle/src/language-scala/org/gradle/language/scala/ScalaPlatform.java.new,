@@ -1,0 +1,1 @@
+./3p/gradle/src/language-scala/org/gradle/language/scala/ScalaPlatform.java mv ./3p/gradle/src/language-scala/org/gradle/language/scala/ScalaPlatform.java.new ./3p/gradle/src/language-scala/org/gradle/language/scala/ScalaPlatform.java

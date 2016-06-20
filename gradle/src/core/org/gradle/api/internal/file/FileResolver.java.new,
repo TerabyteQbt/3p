@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/api/internal/file/FileResolver.java mv ./3p/gradle/src/core/org/gradle/api/internal/file/FileResolver.java.new ./3p/gradle/src/core/org/gradle/api/internal/file/FileResolver.java

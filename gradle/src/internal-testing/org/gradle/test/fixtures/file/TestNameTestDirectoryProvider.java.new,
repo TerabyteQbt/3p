@@ -1,0 +1,1 @@
+./3p/gradle/src/internal-testing/org/gradle/test/fixtures/file/TestNameTestDirectoryProvider.java mv ./3p/gradle/src/internal-testing/org/gradle/test/fixtures/file/TestNameTestDirectoryProvider.java.new ./3p/gradle/src/internal-testing/org/gradle/test/fixtures/file/TestNameTestDirectoryProvider.java

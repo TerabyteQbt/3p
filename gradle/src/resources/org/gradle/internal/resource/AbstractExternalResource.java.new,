@@ -1,0 +1,1 @@
+./3p/gradle/src/resources/org/gradle/internal/resource/AbstractExternalResource.java mv ./3p/gradle/src/resources/org/gradle/internal/resource/AbstractExternalResource.java.new ./3p/gradle/src/resources/org/gradle/internal/resource/AbstractExternalResource.java

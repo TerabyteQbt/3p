@@ -1,0 +1,1 @@
+./3p/gradle/samples/java/testListener/src/test/java/org/gradle/DoNothingTest.java mv ./3p/gradle/samples/java/testListener/src/test/java/org/gradle/DoNothingTest.java.new ./3p/gradle/samples/java/testListener/src/test/java/org/gradle/DoNothingTest.java

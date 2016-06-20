@@ -1,0 +1,1 @@
+./3p/gradle/samples/newJavaPlugin/multiplecomponents/src/server/java/org/gradle/PersonServer.java mv ./3p/gradle/samples/newJavaPlugin/multiplecomponents/src/server/java/org/gradle/PersonServer.java.new ./3p/gradle/samples/newJavaPlugin/multiplecomponents/src/server/java/org/gradle/PersonServer.java

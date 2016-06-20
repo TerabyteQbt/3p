@@ -1,0 +1,1 @@
+./3p/gradle/src/ui/org/gradle/gradleplugin/foundation/settings/SettingsSerializable.java mv ./3p/gradle/src/ui/org/gradle/gradleplugin/foundation/settings/SettingsSerializable.java.new ./3p/gradle/src/ui/org/gradle/gradleplugin/foundation/settings/SettingsSerializable.java

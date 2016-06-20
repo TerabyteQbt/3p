@@ -1,0 +1,1 @@
+./3p/gradle/src/dependency-management/org/gradle/internal/resolve/result/ArtifactResolveResult.java mv ./3p/gradle/src/dependency-management/org/gradle/internal/resolve/result/ArtifactResolveResult.java.new ./3p/gradle/src/dependency-management/org/gradle/internal/resolve/result/ArtifactResolveResult.java

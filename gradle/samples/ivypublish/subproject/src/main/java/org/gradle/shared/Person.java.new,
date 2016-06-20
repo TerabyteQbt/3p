@@ -1,0 +1,1 @@
+./3p/gradle/samples/ivypublish/subproject/src/main/java/org/gradle/shared/Person.java mv ./3p/gradle/samples/ivypublish/subproject/src/main/java/org/gradle/shared/Person.java.new ./3p/gradle/samples/ivypublish/subproject/src/main/java/org/gradle/shared/Person.java

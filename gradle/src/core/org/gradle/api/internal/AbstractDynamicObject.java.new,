@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/api/internal/AbstractDynamicObject.java mv ./3p/gradle/src/core/org/gradle/api/internal/AbstractDynamicObject.java.new ./3p/gradle/src/core/org/gradle/api/internal/AbstractDynamicObject.java

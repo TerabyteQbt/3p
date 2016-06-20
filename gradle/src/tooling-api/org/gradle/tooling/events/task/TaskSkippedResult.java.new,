@@ -1,0 +1,1 @@
+./3p/gradle/src/tooling-api/org/gradle/tooling/events/task/TaskSkippedResult.java mv ./3p/gradle/src/tooling-api/org/gradle/tooling/events/task/TaskSkippedResult.java.new ./3p/gradle/src/tooling-api/org/gradle/tooling/events/task/TaskSkippedResult.java

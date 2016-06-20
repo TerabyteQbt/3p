@@ -1,0 +1,1 @@
+./3p/gradle/src/language-java/org/gradle/language/java/internal/JavaLanguagePluginServiceRegistry.java mv ./3p/gradle/src/language-java/org/gradle/language/java/internal/JavaLanguagePluginServiceRegistry.java.new ./3p/gradle/src/language-java/org/gradle/language/java/internal/JavaLanguagePluginServiceRegistry.java

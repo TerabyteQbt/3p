@@ -1,0 +1,1 @@
+./3p/gradle/src/plugins/org/gradle/jvm/application/scripts/TemplateBasedScriptGenerator.java mv ./3p/gradle/src/plugins/org/gradle/jvm/application/scripts/TemplateBasedScriptGenerator.java.new ./3p/gradle/src/plugins/org/gradle/jvm/application/scripts/TemplateBasedScriptGenerator.java

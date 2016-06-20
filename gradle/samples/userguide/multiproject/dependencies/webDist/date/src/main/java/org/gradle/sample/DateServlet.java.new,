@@ -1,0 +1,1 @@
+./3p/gradle/samples/userguide/multiproject/dependencies/webDist/date/src/main/java/org/gradle/sample/DateServlet.java mv ./3p/gradle/samples/userguide/multiproject/dependencies/webDist/date/src/main/java/org/gradle/sample/DateServlet.java.new ./3p/gradle/samples/userguide/multiproject/dependencies/webDist/date/src/main/java/org/gradle/sample/DateServlet.java

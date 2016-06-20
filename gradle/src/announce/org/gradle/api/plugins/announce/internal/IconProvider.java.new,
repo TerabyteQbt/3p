@@ -1,0 +1,1 @@
+./3p/gradle/src/announce/org/gradle/api/plugins/announce/internal/IconProvider.java mv ./3p/gradle/src/announce/org/gradle/api/plugins/announce/internal/IconProvider.java.new ./3p/gradle/src/announce/org/gradle/api/plugins/announce/internal/IconProvider.java

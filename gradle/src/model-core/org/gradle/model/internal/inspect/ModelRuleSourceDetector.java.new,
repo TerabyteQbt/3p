@@ -1,0 +1,1 @@
+./3p/gradle/src/model-core/org/gradle/model/internal/inspect/ModelRuleSourceDetector.java mv ./3p/gradle/src/model-core/org/gradle/model/internal/inspect/ModelRuleSourceDetector.java.new ./3p/gradle/src/model-core/org/gradle/model/internal/inspect/ModelRuleSourceDetector.java

@@ -1,0 +1,1 @@
+./3p/gradle/src/base-services-groovy/org/gradle/groovy/scripts/internal/ExpressionReplacingVisitorSupport.java mv ./3p/gradle/src/base-services-groovy/org/gradle/groovy/scripts/internal/ExpressionReplacingVisitorSupport.java.new ./3p/gradle/src/base-services-groovy/org/gradle/groovy/scripts/internal/ExpressionReplacingVisitorSupport.java

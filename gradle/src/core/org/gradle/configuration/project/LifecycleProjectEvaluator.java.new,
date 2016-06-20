@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/configuration/project/LifecycleProjectEvaluator.java mv ./3p/gradle/src/core/org/gradle/configuration/project/LifecycleProjectEvaluator.java.new ./3p/gradle/src/core/org/gradle/configuration/project/LifecycleProjectEvaluator.java

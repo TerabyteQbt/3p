@@ -1,0 +1,1 @@
+./3p/gradle/src/dependency-management/org/gradle/internal/resolve/result/BuildableModuleComponentMetaDataResolveResult.java mv ./3p/gradle/src/dependency-management/org/gradle/internal/resolve/result/BuildableModuleComponentMetaDataResolveResult.java.new ./3p/gradle/src/dependency-management/org/gradle/internal/resolve/result/BuildableModuleComponentMetaDataResolveResult.java

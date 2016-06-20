@@ -1,0 +1,1 @@
+./3p/gradle/src/ide/org/gradle/plugins/ide/idea/model/internal/GeneratedIdeaScope.java mv ./3p/gradle/src/ide/org/gradle/plugins/ide/idea/model/internal/GeneratedIdeaScope.java.new ./3p/gradle/src/ide/org/gradle/plugins/ide/idea/model/internal/GeneratedIdeaScope.java

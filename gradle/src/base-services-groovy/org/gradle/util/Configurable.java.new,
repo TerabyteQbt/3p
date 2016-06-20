@@ -1,0 +1,1 @@
+./3p/gradle/src/base-services-groovy/org/gradle/util/Configurable.java mv ./3p/gradle/src/base-services-groovy/org/gradle/util/Configurable.java.new ./3p/gradle/src/base-services-groovy/org/gradle/util/Configurable.java

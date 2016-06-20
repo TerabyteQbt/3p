@@ -1,0 +1,1 @@
+./3p/gradle/src/tooling-api/org/gradle/tooling/events/task/TaskFailureResult.java mv ./3p/gradle/src/tooling-api/org/gradle/tooling/events/task/TaskFailureResult.java.new ./3p/gradle/src/tooling-api/org/gradle/tooling/events/task/TaskFailureResult.java

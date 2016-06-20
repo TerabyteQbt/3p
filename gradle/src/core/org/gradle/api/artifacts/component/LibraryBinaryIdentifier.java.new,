@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/api/artifacts/component/LibraryBinaryIdentifier.java mv ./3p/gradle/src/core/org/gradle/api/artifacts/component/LibraryBinaryIdentifier.java.new ./3p/gradle/src/core/org/gradle/api/artifacts/component/LibraryBinaryIdentifier.java

@@ -1,0 +1,1 @@
+./3p/gradle/src/ide-native/org/gradle/ide/visualstudio/TextConfigFile.java mv ./3p/gradle/src/ide-native/org/gradle/ide/visualstudio/TextConfigFile.java.new ./3p/gradle/src/ide-native/org/gradle/ide/visualstudio/TextConfigFile.java

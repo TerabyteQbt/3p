@@ -1,0 +1,1 @@
+./3p/gradle/src/tooling-api/org/gradle/tooling/model/SourceDirectory.java mv ./3p/gradle/src/tooling-api/org/gradle/tooling/model/SourceDirectory.java.new ./3p/gradle/src/tooling-api/org/gradle/tooling/model/SourceDirectory.java

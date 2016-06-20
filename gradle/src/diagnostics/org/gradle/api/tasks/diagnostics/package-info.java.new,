@@ -1,0 +1,1 @@
+./3p/gradle/src/diagnostics/org/gradle/api/tasks/diagnostics/package-info.java mv ./3p/gradle/src/diagnostics/org/gradle/api/tasks/diagnostics/package-info.java.new ./3p/gradle/src/diagnostics/org/gradle/api/tasks/diagnostics/package-info.java

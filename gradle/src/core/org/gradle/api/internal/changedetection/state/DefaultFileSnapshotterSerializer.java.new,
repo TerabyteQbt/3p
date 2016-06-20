@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/api/internal/changedetection/state/DefaultFileSnapshotterSerializer.java mv ./3p/gradle/src/core/org/gradle/api/internal/changedetection/state/DefaultFileSnapshotterSerializer.java.new ./3p/gradle/src/core/org/gradle/api/internal/changedetection/state/DefaultFileSnapshotterSerializer.java

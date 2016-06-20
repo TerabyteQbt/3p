@@ -1,0 +1,1 @@
+./3p/gradle/src/dependency-management/org/gradle/internal/rules/DefaultRuleActionValidator.java mv ./3p/gradle/src/dependency-management/org/gradle/internal/rules/DefaultRuleActionValidator.java.new ./3p/gradle/src/dependency-management/org/gradle/internal/rules/DefaultRuleActionValidator.java

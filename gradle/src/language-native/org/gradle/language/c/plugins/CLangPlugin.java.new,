@@ -1,0 +1,1 @@
+./3p/gradle/src/language-native/org/gradle/language/c/plugins/CLangPlugin.java mv ./3p/gradle/src/language-native/org/gradle/language/c/plugins/CLangPlugin.java.new ./3p/gradle/src/language-native/org/gradle/language/c/plugins/CLangPlugin.java

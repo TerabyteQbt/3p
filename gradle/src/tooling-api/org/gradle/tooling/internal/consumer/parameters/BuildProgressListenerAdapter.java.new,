@@ -1,0 +1,1 @@
+./3p/gradle/src/tooling-api/org/gradle/tooling/internal/consumer/parameters/BuildProgressListenerAdapter.java mv ./3p/gradle/src/tooling-api/org/gradle/tooling/internal/consumer/parameters/BuildProgressListenerAdapter.java.new ./3p/gradle/src/tooling-api/org/gradle/tooling/internal/consumer/parameters/BuildProgressListenerAdapter.java

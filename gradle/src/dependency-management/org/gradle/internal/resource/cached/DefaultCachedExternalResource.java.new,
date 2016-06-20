@@ -1,0 +1,1 @@
+./3p/gradle/src/dependency-management/org/gradle/internal/resource/cached/DefaultCachedExternalResource.java mv ./3p/gradle/src/dependency-management/org/gradle/internal/resource/cached/DefaultCachedExternalResource.java.new ./3p/gradle/src/dependency-management/org/gradle/internal/resource/cached/DefaultCachedExternalResource.java

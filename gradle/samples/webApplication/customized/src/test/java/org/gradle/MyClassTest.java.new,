@@ -1,0 +1,1 @@
+./3p/gradle/samples/webApplication/customized/src/test/java/org/gradle/MyClassTest.java mv ./3p/gradle/samples/webApplication/customized/src/test/java/org/gradle/MyClassTest.java.new ./3p/gradle/samples/webApplication/customized/src/test/java/org/gradle/MyClassTest.java

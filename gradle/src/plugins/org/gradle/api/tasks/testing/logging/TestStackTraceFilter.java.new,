@@ -1,0 +1,1 @@
+./3p/gradle/src/plugins/org/gradle/api/tasks/testing/logging/TestStackTraceFilter.java mv ./3p/gradle/src/plugins/org/gradle/api/tasks/testing/logging/TestStackTraceFilter.java.new ./3p/gradle/src/plugins/org/gradle/api/tasks/testing/logging/TestStackTraceFilter.java

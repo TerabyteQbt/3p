@@ -1,0 +1,1 @@
+./3p/gradle/src/internal-testing/org/gradle/integtests/fixtures/TestResultOutputAssociation.java mv ./3p/gradle/src/internal-testing/org/gradle/integtests/fixtures/TestResultOutputAssociation.java.new ./3p/gradle/src/internal-testing/org/gradle/integtests/fixtures/TestResultOutputAssociation.java

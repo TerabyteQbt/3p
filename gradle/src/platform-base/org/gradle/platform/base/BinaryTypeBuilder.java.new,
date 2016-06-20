@@ -1,0 +1,1 @@
+./3p/gradle/src/platform-base/org/gradle/platform/base/BinaryTypeBuilder.java mv ./3p/gradle/src/platform-base/org/gradle/platform/base/BinaryTypeBuilder.java.new ./3p/gradle/src/platform-base/org/gradle/platform/base/BinaryTypeBuilder.java

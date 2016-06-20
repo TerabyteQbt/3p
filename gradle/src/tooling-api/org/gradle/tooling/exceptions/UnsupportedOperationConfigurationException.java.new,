@@ -1,0 +1,1 @@
+./3p/gradle/src/tooling-api/org/gradle/tooling/exceptions/UnsupportedOperationConfigurationException.java mv ./3p/gradle/src/tooling-api/org/gradle/tooling/exceptions/UnsupportedOperationConfigurationException.java.new ./3p/gradle/src/tooling-api/org/gradle/tooling/exceptions/UnsupportedOperationConfigurationException.java

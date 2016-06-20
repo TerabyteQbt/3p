@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/api/internal/file/collections/FileCollectionAdapter.java mv ./3p/gradle/src/core/org/gradle/api/internal/file/collections/FileCollectionAdapter.java.new ./3p/gradle/src/core/org/gradle/api/internal/file/collections/FileCollectionAdapter.java

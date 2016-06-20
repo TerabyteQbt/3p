@@ -1,0 +1,1 @@
+./3p/gradle/src/sonar/org/gradle/sonar/runner/plugins/SonarRunnerPlugin.java mv ./3p/gradle/src/sonar/org/gradle/sonar/runner/plugins/SonarRunnerPlugin.java.new ./3p/gradle/src/sonar/org/gradle/sonar/runner/plugins/SonarRunnerPlugin.java

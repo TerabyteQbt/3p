@@ -1,0 +1,1 @@
+./3p/gradle/src/diagnostics/org/gradle/api/reporting/dependencies/HtmlDependencyReportTask.java mv ./3p/gradle/src/diagnostics/org/gradle/api/reporting/dependencies/HtmlDependencyReportTask.java.new ./3p/gradle/src/diagnostics/org/gradle/api/reporting/dependencies/HtmlDependencyReportTask.java

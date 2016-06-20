@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/groovy/scripts/internal/EmptyScriptGenerator.java mv ./3p/gradle/src/core/org/gradle/groovy/scripts/internal/EmptyScriptGenerator.java.new ./3p/gradle/src/core/org/gradle/groovy/scripts/internal/EmptyScriptGenerator.java

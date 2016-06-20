@@ -1,0 +1,1 @@
+./3p/gradle/src/dependency-management/org/gradle/api/internal/artifacts/repositories/resolver/MavenVersionLister.java mv ./3p/gradle/src/dependency-management/org/gradle/api/internal/artifacts/repositories/resolver/MavenVersionLister.java.new ./3p/gradle/src/dependency-management/org/gradle/api/internal/artifacts/repositories/resolver/MavenVersionLister.java

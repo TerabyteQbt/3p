@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/cache/internal/filelock/LockInfoAccess.java mv ./3p/gradle/src/core/org/gradle/cache/internal/filelock/LockInfoAccess.java.new ./3p/gradle/src/core/org/gradle/cache/internal/filelock/LockInfoAccess.java

@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/api/internal/tasks/TaskResolver.java mv ./3p/gradle/src/core/org/gradle/api/internal/tasks/TaskResolver.java.new ./3p/gradle/src/core/org/gradle/api/internal/tasks/TaskResolver.java

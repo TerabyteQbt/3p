@@ -1,0 +1,1 @@
+./3p/gradle/src/resources/org/gradle/internal/resource/transfer/ExternalResourceReadResponse.java mv ./3p/gradle/src/resources/org/gradle/internal/resource/transfer/ExternalResourceReadResponse.java.new ./3p/gradle/src/resources/org/gradle/internal/resource/transfer/ExternalResourceReadResponse.java

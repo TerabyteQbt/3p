@@ -1,0 +1,1 @@
+./3p/gradle/src/plugin-development/org/gradle/plugin/devel/plugins/JavaGradlePluginPlugin.java mv ./3p/gradle/src/plugin-development/org/gradle/plugin/devel/plugins/JavaGradlePluginPlugin.java.new ./3p/gradle/src/plugin-development/org/gradle/plugin/devel/plugins/JavaGradlePluginPlugin.java

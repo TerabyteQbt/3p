@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/listener/ListenerManager.java mv ./3p/gradle/src/core/org/gradle/listener/ListenerManager.java.new ./3p/gradle/src/core/org/gradle/listener/ListenerManager.java

@@ -1,0 +1,1 @@
+./3p/gradle/samples/userguide/multiproject/dependencies/java/shared/src/test/java/org/gradle/HelperTest.java mv ./3p/gradle/samples/userguide/multiproject/dependencies/java/shared/src/test/java/org/gradle/HelperTest.java.new ./3p/gradle/samples/userguide/multiproject/dependencies/java/shared/src/test/java/org/gradle/HelperTest.java

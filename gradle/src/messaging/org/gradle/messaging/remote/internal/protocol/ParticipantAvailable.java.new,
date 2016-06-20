@@ -1,0 +1,1 @@
+./3p/gradle/src/messaging/org/gradle/messaging/remote/internal/protocol/ParticipantAvailable.java mv ./3p/gradle/src/messaging/org/gradle/messaging/remote/internal/protocol/ParticipantAvailable.java.new ./3p/gradle/src/messaging/org/gradle/messaging/remote/internal/protocol/ParticipantAvailable.java

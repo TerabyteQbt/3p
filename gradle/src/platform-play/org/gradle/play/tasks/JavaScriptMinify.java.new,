@@ -1,0 +1,1 @@
+./3p/gradle/src/platform-play/org/gradle/play/tasks/JavaScriptMinify.java mv ./3p/gradle/src/platform-play/org/gradle/play/tasks/JavaScriptMinify.java.new ./3p/gradle/src/platform-play/org/gradle/play/tasks/JavaScriptMinify.java

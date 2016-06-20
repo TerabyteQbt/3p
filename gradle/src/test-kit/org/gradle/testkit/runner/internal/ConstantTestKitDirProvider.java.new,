@@ -1,0 +1,1 @@
+./3p/gradle/src/test-kit/org/gradle/testkit/runner/internal/ConstantTestKitDirProvider.java mv ./3p/gradle/src/test-kit/org/gradle/testkit/runner/internal/ConstantTestKitDirProvider.java.new ./3p/gradle/src/test-kit/org/gradle/testkit/runner/internal/ConstantTestKitDirProvider.java

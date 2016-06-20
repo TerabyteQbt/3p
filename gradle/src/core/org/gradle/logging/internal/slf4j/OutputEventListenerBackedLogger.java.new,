@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/logging/internal/slf4j/OutputEventListenerBackedLogger.java mv ./3p/gradle/src/core/org/gradle/logging/internal/slf4j/OutputEventListenerBackedLogger.java.new ./3p/gradle/src/core/org/gradle/logging/internal/slf4j/OutputEventListenerBackedLogger.java

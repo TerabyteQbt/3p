@@ -1,0 +1,1 @@
+./3p/gradle/src/model-groovy/org/gradle/model/dsl/internal/transform/ModelBlockTransformer.java mv ./3p/gradle/src/model-groovy/org/gradle/model/dsl/internal/transform/ModelBlockTransformer.java.new ./3p/gradle/src/model-groovy/org/gradle/model/dsl/internal/transform/ModelBlockTransformer.java

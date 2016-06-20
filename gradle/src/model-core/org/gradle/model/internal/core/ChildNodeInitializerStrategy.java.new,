@@ -1,0 +1,1 @@
+./3p/gradle/src/model-core/org/gradle/model/internal/core/ChildNodeInitializerStrategy.java mv ./3p/gradle/src/model-core/org/gradle/model/internal/core/ChildNodeInitializerStrategy.java.new ./3p/gradle/src/model-core/org/gradle/model/internal/core/ChildNodeInitializerStrategy.java

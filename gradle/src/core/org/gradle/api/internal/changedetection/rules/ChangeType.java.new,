@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/api/internal/changedetection/rules/ChangeType.java mv ./3p/gradle/src/core/org/gradle/api/internal/changedetection/rules/ChangeType.java.new ./3p/gradle/src/core/org/gradle/api/internal/changedetection/rules/ChangeType.java

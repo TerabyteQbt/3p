@@ -1,0 +1,1 @@
+./3p/gradle/samples/javaGradlePlugin/src/main/java/org/gradle/sample/SimplePlugin.java mv ./3p/gradle/samples/javaGradlePlugin/src/main/java/org/gradle/sample/SimplePlugin.java.new ./3p/gradle/samples/javaGradlePlugin/src/main/java/org/gradle/sample/SimplePlugin.java

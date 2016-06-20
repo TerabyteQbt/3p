@@ -1,0 +1,1 @@
+./3p/gradle/src/javascript/org/gradle/plugins/javascript/base/JavaScriptRepositoriesExtension.java mv ./3p/gradle/src/javascript/org/gradle/plugins/javascript/base/JavaScriptRepositoriesExtension.java.new ./3p/gradle/src/javascript/org/gradle/plugins/javascript/base/JavaScriptRepositoriesExtension.java

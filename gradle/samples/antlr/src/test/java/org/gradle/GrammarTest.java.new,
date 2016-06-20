@@ -1,0 +1,1 @@
+./3p/gradle/samples/antlr/src/test/java/org/gradle/GrammarTest.java mv ./3p/gradle/samples/antlr/src/test/java/org/gradle/GrammarTest.java.new ./3p/gradle/samples/antlr/src/test/java/org/gradle/GrammarTest.java

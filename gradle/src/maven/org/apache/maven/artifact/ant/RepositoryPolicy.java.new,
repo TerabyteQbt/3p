@@ -1,0 +1,1 @@
+./3p/gradle/src/maven/org/apache/maven/artifact/ant/RepositoryPolicy.java mv ./3p/gradle/src/maven/org/apache/maven/artifact/ant/RepositoryPolicy.java.new ./3p/gradle/src/maven/org/apache/maven/artifact/ant/RepositoryPolicy.java

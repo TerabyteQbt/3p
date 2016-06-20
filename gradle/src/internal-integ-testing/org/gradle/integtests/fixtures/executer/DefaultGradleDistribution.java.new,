@@ -1,0 +1,1 @@
+./3p/gradle/src/internal-integ-testing/org/gradle/integtests/fixtures/executer/DefaultGradleDistribution.java mv ./3p/gradle/src/internal-integ-testing/org/gradle/integtests/fixtures/executer/DefaultGradleDistribution.java.new ./3p/gradle/src/internal-integ-testing/org/gradle/integtests/fixtures/executer/DefaultGradleDistribution.java

@@ -1,0 +1,1 @@
+./3p/gradle/src/maven/org/gradle/api/artifacts/maven/Conf2ScopeMappingContainer.java mv ./3p/gradle/src/maven/org/gradle/api/artifacts/maven/Conf2ScopeMappingContainer.java.new ./3p/gradle/src/maven/org/gradle/api/artifacts/maven/Conf2ScopeMappingContainer.java

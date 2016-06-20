@@ -1,0 +1,1 @@
+./3p/gradle/src/ide/org/gradle/plugins/ide/internal/tooling/eclipse/DefaultEclipseSourceDirectory.java mv ./3p/gradle/src/ide/org/gradle/plugins/ide/internal/tooling/eclipse/DefaultEclipseSourceDirectory.java.new ./3p/gradle/src/ide/org/gradle/plugins/ide/internal/tooling/eclipse/DefaultEclipseSourceDirectory.java

@@ -1,0 +1,1 @@
+./3p/gradle/src/language-java/org/gradle/external/javadoc/StandardJavadocDocletOptions.java mv ./3p/gradle/src/language-java/org/gradle/external/javadoc/StandardJavadocDocletOptions.java.new ./3p/gradle/src/language-java/org/gradle/external/javadoc/StandardJavadocDocletOptions.java

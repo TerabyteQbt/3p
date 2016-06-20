@@ -1,0 +1,1 @@
+./3p/gradle/src/ui/org/gradle/gradleplugin/userinterface/swing/generic/tabs/SetupTab.java mv ./3p/gradle/src/ui/org/gradle/gradleplugin/userinterface/swing/generic/tabs/SetupTab.java.new ./3p/gradle/src/ui/org/gradle/gradleplugin/userinterface/swing/generic/tabs/SetupTab.java

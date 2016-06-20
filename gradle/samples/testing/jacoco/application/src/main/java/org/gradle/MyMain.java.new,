@@ -1,0 +1,1 @@
+./3p/gradle/samples/testing/jacoco/application/src/main/java/org/gradle/MyMain.java mv ./3p/gradle/samples/testing/jacoco/application/src/main/java/org/gradle/MyMain.java.new ./3p/gradle/samples/testing/jacoco/application/src/main/java/org/gradle/MyMain.java

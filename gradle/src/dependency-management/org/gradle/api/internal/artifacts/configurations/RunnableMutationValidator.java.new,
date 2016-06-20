@@ -1,0 +1,1 @@
+./3p/gradle/src/dependency-management/org/gradle/api/internal/artifacts/configurations/RunnableMutationValidator.java mv ./3p/gradle/src/dependency-management/org/gradle/api/internal/artifacts/configurations/RunnableMutationValidator.java.new ./3p/gradle/src/dependency-management/org/gradle/api/internal/artifacts/configurations/RunnableMutationValidator.java

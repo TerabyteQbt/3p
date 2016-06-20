@@ -1,0 +1,1 @@
+./3p/gradle/src/ivy/org/gradle/api/publish/ivy/IvyConfigurationContainer.java mv ./3p/gradle/src/ivy/org/gradle/api/publish/ivy/IvyConfigurationContainer.java.new ./3p/gradle/src/ivy/org/gradle/api/publish/ivy/IvyConfigurationContainer.java

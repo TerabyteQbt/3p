@@ -1,0 +1,1 @@
+./3p/gradle/src/messaging/org/gradle/internal/serialize/BaseSerializerFactory.java mv ./3p/gradle/src/messaging/org/gradle/internal/serialize/BaseSerializerFactory.java.new ./3p/gradle/src/messaging/org/gradle/internal/serialize/BaseSerializerFactory.java

@@ -1,0 +1,1 @@
+./3p/gradle/samples/java/withIntegrationTests/src/integration-test/java/org/gradle/PersonIntegrationTest.java mv ./3p/gradle/samples/java/withIntegrationTests/src/integration-test/java/org/gradle/PersonIntegrationTest.java.new ./3p/gradle/samples/java/withIntegrationTests/src/integration-test/java/org/gradle/PersonIntegrationTest.java

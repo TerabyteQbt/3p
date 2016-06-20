@@ -1,0 +1,1 @@
+./3p/gradle/src/resources/org/gradle/internal/resource/transfer/DefaultExternalResource.java mv ./3p/gradle/src/resources/org/gradle/internal/resource/transfer/DefaultExternalResource.java.new ./3p/gradle/src/resources/org/gradle/internal/resource/transfer/DefaultExternalResource.java

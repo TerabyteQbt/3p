@@ -1,0 +1,1 @@
+./3p/gradle/src/javascript/org/gradle/plugins/javascript/base/SourceTransformationException.java mv ./3p/gradle/src/javascript/org/gradle/plugins/javascript/base/SourceTransformationException.java.new ./3p/gradle/src/javascript/org/gradle/plugins/javascript/base/SourceTransformationException.java

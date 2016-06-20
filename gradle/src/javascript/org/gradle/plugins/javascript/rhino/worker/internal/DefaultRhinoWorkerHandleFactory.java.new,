@@ -1,0 +1,1 @@
+./3p/gradle/src/javascript/org/gradle/plugins/javascript/rhino/worker/internal/DefaultRhinoWorkerHandleFactory.java mv ./3p/gradle/src/javascript/org/gradle/plugins/javascript/rhino/worker/internal/DefaultRhinoWorkerHandleFactory.java.new ./3p/gradle/src/javascript/org/gradle/plugins/javascript/rhino/worker/internal/DefaultRhinoWorkerHandleFactory.java

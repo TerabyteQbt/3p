@@ -1,0 +1,1 @@
+./3p/gradle/src/internal-integ-testing/org/gradle/test/fixtures/server/http/CyclicBarrierHttpServer.java mv ./3p/gradle/src/internal-integ-testing/org/gradle/test/fixtures/server/http/CyclicBarrierHttpServer.java.new ./3p/gradle/src/internal-integ-testing/org/gradle/test/fixtures/server/http/CyclicBarrierHttpServer.java

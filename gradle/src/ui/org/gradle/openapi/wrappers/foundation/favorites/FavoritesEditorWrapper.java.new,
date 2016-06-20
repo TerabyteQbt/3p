@@ -1,0 +1,1 @@
+./3p/gradle/src/ui/org/gradle/openapi/wrappers/foundation/favorites/FavoritesEditorWrapper.java mv ./3p/gradle/src/ui/org/gradle/openapi/wrappers/foundation/favorites/FavoritesEditorWrapper.java.new ./3p/gradle/src/ui/org/gradle/openapi/wrappers/foundation/favorites/FavoritesEditorWrapper.java

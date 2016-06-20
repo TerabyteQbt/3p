@@ -1,0 +1,1 @@
+./3p/gradle/samples/java/apiAndImpl/src/test/java/doubler/impl/DoublerImplTest.java mv ./3p/gradle/samples/java/apiAndImpl/src/test/java/doubler/impl/DoublerImplTest.java.new ./3p/gradle/samples/java/apiAndImpl/src/test/java/doubler/impl/DoublerImplTest.java

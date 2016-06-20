@@ -1,0 +1,1 @@
+./3p/gradle/src/ide-native/org/gradle/ide/visualstudio/package-info.java mv ./3p/gradle/src/ide-native/org/gradle/ide/visualstudio/package-info.java.new ./3p/gradle/src/ide-native/org/gradle/ide/visualstudio/package-info.java

@@ -1,0 +1,1 @@
+./3p/gradle/src/internal-testing/org/gradle/util/RedirectStdIn.java mv ./3p/gradle/src/internal-testing/org/gradle/util/RedirectStdIn.java.new ./3p/gradle/src/internal-testing/org/gradle/util/RedirectStdIn.java

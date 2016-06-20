@@ -1,0 +1,1 @@
+./3p/gradle/src/plugins/org/gradle/api/internal/tasks/testing/results/TestListenerAdapter.java mv ./3p/gradle/src/plugins/org/gradle/api/internal/tasks/testing/results/TestListenerAdapter.java.new ./3p/gradle/src/plugins/org/gradle/api/internal/tasks/testing/results/TestListenerAdapter.java

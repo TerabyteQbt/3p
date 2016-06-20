@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/internal/progress/LoggerProvider.java mv ./3p/gradle/src/core/org/gradle/internal/progress/LoggerProvider.java.new ./3p/gradle/src/core/org/gradle/internal/progress/LoggerProvider.java

@@ -1,0 +1,1 @@
+./3p/gradle/src/tooling-api/org/gradle/tooling/internal/protocol/events/InternalOperationResult.java mv ./3p/gradle/src/tooling-api/org/gradle/tooling/internal/protocol/events/InternalOperationResult.java.new ./3p/gradle/src/tooling-api/org/gradle/tooling/internal/protocol/events/InternalOperationResult.java

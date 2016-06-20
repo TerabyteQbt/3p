@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/api/internal/DomainObjectContext.java mv ./3p/gradle/src/core/org/gradle/api/internal/DomainObjectContext.java.new ./3p/gradle/src/core/org/gradle/api/internal/DomainObjectContext.java

@@ -1,0 +1,1 @@
+./3p/gradle/samples/userguide/java/sourceSets/src/intTest/java/SomeTest.java mv ./3p/gradle/samples/userguide/java/sourceSets/src/intTest/java/SomeTest.java.new ./3p/gradle/samples/userguide/java/sourceSets/src/intTest/java/SomeTest.java

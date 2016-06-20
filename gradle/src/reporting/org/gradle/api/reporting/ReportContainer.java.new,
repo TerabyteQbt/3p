@@ -1,0 +1,1 @@
+./3p/gradle/src/reporting/org/gradle/api/reporting/ReportContainer.java mv ./3p/gradle/src/reporting/org/gradle/api/reporting/ReportContainer.java.new ./3p/gradle/src/reporting/org/gradle/api/reporting/ReportContainer.java

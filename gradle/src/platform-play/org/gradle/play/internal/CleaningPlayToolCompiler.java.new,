@@ -1,0 +1,1 @@
+./3p/gradle/src/platform-play/org/gradle/play/internal/CleaningPlayToolCompiler.java mv ./3p/gradle/src/platform-play/org/gradle/play/internal/CleaningPlayToolCompiler.java.new ./3p/gradle/src/platform-play/org/gradle/play/internal/CleaningPlayToolCompiler.java

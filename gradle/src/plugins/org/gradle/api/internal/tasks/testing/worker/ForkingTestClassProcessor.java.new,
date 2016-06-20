@@ -1,0 +1,1 @@
+./3p/gradle/src/plugins/org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.java mv ./3p/gradle/src/plugins/org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.java.new ./3p/gradle/src/plugins/org/gradle/api/internal/tasks/testing/worker/ForkingTestClassProcessor.java

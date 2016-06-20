@@ -1,0 +1,1 @@
+./3p/gradle/src/language-java/org/gradle/api/internal/tasks/compile/incremental/jar/JarSnapshotData.java mv ./3p/gradle/src/language-java/org/gradle/api/internal/tasks/compile/incremental/jar/JarSnapshotData.java.new ./3p/gradle/src/language-java/org/gradle/api/internal/tasks/compile/incremental/jar/JarSnapshotData.java

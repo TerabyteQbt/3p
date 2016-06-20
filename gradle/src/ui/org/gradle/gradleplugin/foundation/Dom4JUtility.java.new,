@@ -1,0 +1,1 @@
+./3p/gradle/src/ui/org/gradle/gradleplugin/foundation/Dom4JUtility.java mv ./3p/gradle/src/ui/org/gradle/gradleplugin/foundation/Dom4JUtility.java.new ./3p/gradle/src/ui/org/gradle/gradleplugin/foundation/Dom4JUtility.java

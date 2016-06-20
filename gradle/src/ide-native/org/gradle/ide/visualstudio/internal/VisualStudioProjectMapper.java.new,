@@ -1,0 +1,1 @@
+./3p/gradle/src/ide-native/org/gradle/ide/visualstudio/internal/VisualStudioProjectMapper.java mv ./3p/gradle/src/ide-native/org/gradle/ide/visualstudio/internal/VisualStudioProjectMapper.java.new ./3p/gradle/src/ide-native/org/gradle/ide/visualstudio/internal/VisualStudioProjectMapper.java

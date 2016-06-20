@@ -1,0 +1,1 @@
+./3p/gradle/samples/groovy/multiproject/testproject/src/main/java/org/gradle/JavaPerson.java mv ./3p/gradle/samples/groovy/multiproject/testproject/src/main/java/org/gradle/JavaPerson.java.new ./3p/gradle/samples/groovy/multiproject/testproject/src/main/java/org/gradle/JavaPerson.java

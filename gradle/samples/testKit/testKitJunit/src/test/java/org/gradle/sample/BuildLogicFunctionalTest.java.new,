@@ -1,0 +1,1 @@
+./3p/gradle/samples/testKit/testKitJunit/src/test/java/org/gradle/sample/BuildLogicFunctionalTest.java mv ./3p/gradle/samples/testKit/testKitJunit/src/test/java/org/gradle/sample/BuildLogicFunctionalTest.java.new ./3p/gradle/samples/testKit/testKitJunit/src/test/java/org/gradle/sample/BuildLogicFunctionalTest.java

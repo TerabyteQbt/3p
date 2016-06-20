@@ -1,0 +1,1 @@
+./3p/gradle/src/platform-base/org/gradle/language/base/internal/DependentSourceSetInternal.java mv ./3p/gradle/src/platform-base/org/gradle/language/base/internal/DependentSourceSetInternal.java.new ./3p/gradle/src/platform-base/org/gradle/language/base/internal/DependentSourceSetInternal.java

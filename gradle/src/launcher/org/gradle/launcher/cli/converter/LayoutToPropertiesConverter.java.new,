@@ -1,0 +1,1 @@
+./3p/gradle/src/launcher/org/gradle/launcher/cli/converter/LayoutToPropertiesConverter.java mv ./3p/gradle/src/launcher/org/gradle/launcher/cli/converter/LayoutToPropertiesConverter.java.new ./3p/gradle/src/launcher/org/gradle/launcher/cli/converter/LayoutToPropertiesConverter.java

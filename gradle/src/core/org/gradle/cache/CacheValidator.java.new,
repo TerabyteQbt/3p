@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/cache/CacheValidator.java mv ./3p/gradle/src/core/org/gradle/cache/CacheValidator.java.new ./3p/gradle/src/core/org/gradle/cache/CacheValidator.java

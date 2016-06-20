@@ -1,0 +1,1 @@
+./3p/gradle/src/platform-native/org/gradle/nativeplatform/internal/configure/NativeComponentRules.java mv ./3p/gradle/src/platform-native/org/gradle/nativeplatform/internal/configure/NativeComponentRules.java.new ./3p/gradle/src/platform-native/org/gradle/nativeplatform/internal/configure/NativeComponentRules.java

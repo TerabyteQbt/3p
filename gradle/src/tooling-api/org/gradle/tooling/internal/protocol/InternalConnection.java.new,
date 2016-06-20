@@ -1,0 +1,1 @@
+./3p/gradle/src/tooling-api/org/gradle/tooling/internal/protocol/InternalConnection.java mv ./3p/gradle/src/tooling-api/org/gradle/tooling/internal/protocol/InternalConnection.java.new ./3p/gradle/src/tooling-api/org/gradle/tooling/internal/protocol/InternalConnection.java

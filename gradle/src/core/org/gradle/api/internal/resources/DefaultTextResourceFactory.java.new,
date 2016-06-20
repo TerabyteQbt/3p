@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/api/internal/resources/DefaultTextResourceFactory.java mv ./3p/gradle/src/core/org/gradle/api/internal/resources/DefaultTextResourceFactory.java.new ./3p/gradle/src/core/org/gradle/api/internal/resources/DefaultTextResourceFactory.java

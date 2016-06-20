@@ -1,0 +1,1 @@
+./3p/gradle/src/language-jvm/org/gradle/language/jvm/plugins/JvmResourcesPlugin.java mv ./3p/gradle/src/language-jvm/org/gradle/language/jvm/plugins/JvmResourcesPlugin.java.new ./3p/gradle/src/language-jvm/org/gradle/language/jvm/plugins/JvmResourcesPlugin.java

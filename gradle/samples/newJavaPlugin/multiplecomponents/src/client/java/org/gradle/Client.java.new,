@@ -1,0 +1,1 @@
+./3p/gradle/samples/newJavaPlugin/multiplecomponents/src/client/java/org/gradle/Client.java mv ./3p/gradle/samples/newJavaPlugin/multiplecomponents/src/client/java/org/gradle/Client.java.new ./3p/gradle/samples/newJavaPlugin/multiplecomponents/src/client/java/org/gradle/Client.java

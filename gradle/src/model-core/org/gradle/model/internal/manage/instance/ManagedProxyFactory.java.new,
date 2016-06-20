@@ -1,0 +1,1 @@
+./3p/gradle/src/model-core/org/gradle/model/internal/manage/instance/ManagedProxyFactory.java mv ./3p/gradle/src/model-core/org/gradle/model/internal/manage/instance/ManagedProxyFactory.java.new ./3p/gradle/src/model-core/org/gradle/model/internal/manage/instance/ManagedProxyFactory.java

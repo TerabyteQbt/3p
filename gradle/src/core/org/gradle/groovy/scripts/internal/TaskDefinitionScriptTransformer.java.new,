@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/groovy/scripts/internal/TaskDefinitionScriptTransformer.java mv ./3p/gradle/src/core/org/gradle/groovy/scripts/internal/TaskDefinitionScriptTransformer.java.new ./3p/gradle/src/core/org/gradle/groovy/scripts/internal/TaskDefinitionScriptTransformer.java

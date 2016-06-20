@@ -1,0 +1,1 @@
+./3p/gradle/src/platform-base/org/gradle/platform/base/DependencySpecBuilder.java mv ./3p/gradle/src/platform-base/org/gradle/platform/base/DependencySpecBuilder.java.new ./3p/gradle/src/platform-base/org/gradle/platform/base/DependencySpecBuilder.java

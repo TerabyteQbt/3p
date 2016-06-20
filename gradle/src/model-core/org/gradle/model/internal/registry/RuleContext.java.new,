@@ -1,0 +1,1 @@
+./3p/gradle/src/model-core/org/gradle/model/internal/registry/RuleContext.java mv ./3p/gradle/src/model-core/org/gradle/model/internal/registry/RuleContext.java.new ./3p/gradle/src/model-core/org/gradle/model/internal/registry/RuleContext.java

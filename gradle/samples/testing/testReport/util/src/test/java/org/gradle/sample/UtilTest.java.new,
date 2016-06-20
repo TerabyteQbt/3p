@@ -1,0 +1,1 @@
+./3p/gradle/samples/testing/testReport/util/src/test/java/org/gradle/sample/UtilTest.java mv ./3p/gradle/samples/testing/testReport/util/src/test/java/org/gradle/sample/UtilTest.java.new ./3p/gradle/samples/testing/testReport/util/src/test/java/org/gradle/sample/UtilTest.java

@@ -1,0 +1,1 @@
+./3p/gradle/src/internal-integ-testing/org/gradle/test/fixtures/maven/DelegatingMavenModule.java mv ./3p/gradle/src/internal-integ-testing/org/gradle/test/fixtures/maven/DelegatingMavenModule.java.new ./3p/gradle/src/internal-integ-testing/org/gradle/test/fixtures/maven/DelegatingMavenModule.java

@@ -1,0 +1,1 @@
+./3p/gradle/src/code-quality/org/gradle/api/plugins/quality/internal/findbugs/FindBugsWorkerClient.java mv ./3p/gradle/src/code-quality/org/gradle/api/plugins/quality/internal/findbugs/FindBugsWorkerClient.java.new ./3p/gradle/src/code-quality/org/gradle/api/plugins/quality/internal/findbugs/FindBugsWorkerClient.java

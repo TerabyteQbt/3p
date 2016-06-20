@@ -1,0 +1,1 @@
+./3p/gradle/src/resources/org/gradle/internal/resource/connector/ResourceConnectorSpecification.java mv ./3p/gradle/src/resources/org/gradle/internal/resource/connector/ResourceConnectorSpecification.java.new ./3p/gradle/src/resources/org/gradle/internal/resource/connector/ResourceConnectorSpecification.java

@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/api/artifacts/ComponentSelection.java mv ./3p/gradle/src/core/org/gradle/api/artifacts/ComponentSelection.java.new ./3p/gradle/src/core/org/gradle/api/artifacts/ComponentSelection.java

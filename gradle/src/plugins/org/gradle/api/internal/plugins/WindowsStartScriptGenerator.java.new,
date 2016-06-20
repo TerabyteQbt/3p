@@ -1,0 +1,1 @@
+./3p/gradle/src/plugins/org/gradle/api/internal/plugins/WindowsStartScriptGenerator.java mv ./3p/gradle/src/plugins/org/gradle/api/internal/plugins/WindowsStartScriptGenerator.java.new ./3p/gradle/src/plugins/org/gradle/api/internal/plugins/WindowsStartScriptGenerator.java

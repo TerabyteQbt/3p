@@ -1,0 +1,1 @@
+./3p/gradle/samples/java/multiproject/services/webservice/src/main/java/org/gradle/webservice/TestTest.java mv ./3p/gradle/samples/java/multiproject/services/webservice/src/main/java/org/gradle/webservice/TestTest.java.new ./3p/gradle/samples/java/multiproject/services/webservice/src/main/java/org/gradle/webservice/TestTest.java

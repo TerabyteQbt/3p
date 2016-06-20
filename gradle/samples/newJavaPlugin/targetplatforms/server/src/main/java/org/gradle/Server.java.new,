@@ -1,0 +1,1 @@
+./3p/gradle/samples/newJavaPlugin/targetplatforms/server/src/main/java/org/gradle/Server.java mv ./3p/gradle/samples/newJavaPlugin/targetplatforms/server/src/main/java/org/gradle/Server.java.new ./3p/gradle/samples/newJavaPlugin/targetplatforms/server/src/main/java/org/gradle/Server.java

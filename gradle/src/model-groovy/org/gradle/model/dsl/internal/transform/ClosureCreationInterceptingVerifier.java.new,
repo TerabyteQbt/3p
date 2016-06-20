@@ -1,0 +1,1 @@
+./3p/gradle/src/model-groovy/org/gradle/model/dsl/internal/transform/ClosureCreationInterceptingVerifier.java mv ./3p/gradle/src/model-groovy/org/gradle/model/dsl/internal/transform/ClosureCreationInterceptingVerifier.java.new ./3p/gradle/src/model-groovy/org/gradle/model/dsl/internal/transform/ClosureCreationInterceptingVerifier.java

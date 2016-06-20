@@ -1,0 +1,1 @@
+./3p/gradle/src/reporting/org/gradle/api/reporting/plugins/BuildDashboardPlugin.java mv ./3p/gradle/src/reporting/org/gradle/api/reporting/plugins/BuildDashboardPlugin.java.new ./3p/gradle/src/reporting/org/gradle/api/reporting/plugins/BuildDashboardPlugin.java

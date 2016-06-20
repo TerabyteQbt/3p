@@ -1,0 +1,1 @@
+./3p/gradle/src/diagnostics/org/gradle/api/reporting/dependencies/internal/StrictDependencyResultSpec.java mv ./3p/gradle/src/diagnostics/org/gradle/api/reporting/dependencies/internal/StrictDependencyResultSpec.java.new ./3p/gradle/src/diagnostics/org/gradle/api/reporting/dependencies/internal/StrictDependencyResultSpec.java

@@ -1,0 +1,1 @@
+./3p/gradle/src/ui/org/gradle/openapi/wrappers/foundation/favorites/FavoriteTaskWrapper.java mv ./3p/gradle/src/ui/org/gradle/openapi/wrappers/foundation/favorites/FavoriteTaskWrapper.java.new ./3p/gradle/src/ui/org/gradle/openapi/wrappers/foundation/favorites/FavoriteTaskWrapper.java

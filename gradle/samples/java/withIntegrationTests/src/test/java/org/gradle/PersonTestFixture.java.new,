@@ -1,0 +1,1 @@
+./3p/gradle/samples/java/withIntegrationTests/src/test/java/org/gradle/PersonTestFixture.java mv ./3p/gradle/samples/java/withIntegrationTests/src/test/java/org/gradle/PersonTestFixture.java.new ./3p/gradle/samples/java/withIntegrationTests/src/test/java/org/gradle/PersonTestFixture.java

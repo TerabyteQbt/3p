@@ -1,0 +1,1 @@
+./3p/gradle/src/resources-s3/org/gradle/internal/resource/transport/aws/s3/S3Resource.java mv ./3p/gradle/src/resources-s3/org/gradle/internal/resource/transport/aws/s3/S3Resource.java.new ./3p/gradle/src/resources-s3/org/gradle/internal/resource/transport/aws/s3/S3Resource.java

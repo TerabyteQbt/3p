@@ -1,0 +1,1 @@
+./3p/gradle/src/language-java/org/gradle/api/internal/tasks/compile/incremental/deps/DefaultDependentsSet.java mv ./3p/gradle/src/language-java/org/gradle/api/internal/tasks/compile/incremental/deps/DefaultDependentsSet.java.new ./3p/gradle/src/language-java/org/gradle/api/internal/tasks/compile/incremental/deps/DefaultDependentsSet.java

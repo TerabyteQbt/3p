@@ -1,0 +1,1 @@
+./3p/gradle/src/diagnostics/org/gradle/api/reporting/model/internal/TextModelReportRenderer.java mv ./3p/gradle/src/diagnostics/org/gradle/api/reporting/model/internal/TextModelReportRenderer.java.new ./3p/gradle/src/diagnostics/org/gradle/api/reporting/model/internal/TextModelReportRenderer.java

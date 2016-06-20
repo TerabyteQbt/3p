@@ -1,0 +1,1 @@
+./3p/gradle/src/internal-integ-testing/org/gradle/integtests/fixtures/executer/ParallelForkingGradleHandle.java mv ./3p/gradle/src/internal-integ-testing/org/gradle/integtests/fixtures/executer/ParallelForkingGradleHandle.java.new ./3p/gradle/src/internal-integ-testing/org/gradle/integtests/fixtures/executer/ParallelForkingGradleHandle.java

@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/internal/typeconversion/ClosureToSpecNotationConverter.java mv ./3p/gradle/src/core/org/gradle/internal/typeconversion/ClosureToSpecNotationConverter.java.new ./3p/gradle/src/core/org/gradle/internal/typeconversion/ClosureToSpecNotationConverter.java

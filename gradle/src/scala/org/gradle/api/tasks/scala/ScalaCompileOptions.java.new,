@@ -1,0 +1,1 @@
+./3p/gradle/src/scala/org/gradle/api/tasks/scala/ScalaCompileOptions.java mv ./3p/gradle/src/scala/org/gradle/api/tasks/scala/ScalaCompileOptions.java.new ./3p/gradle/src/scala/org/gradle/api/tasks/scala/ScalaCompileOptions.java

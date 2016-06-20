@@ -1,0 +1,1 @@
+./3p/gradle/src/internal-integ-testing/org/gradle/integtests/fixtures/IntegrationTestHint.java mv ./3p/gradle/src/internal-integ-testing/org/gradle/integtests/fixtures/IntegrationTestHint.java.new ./3p/gradle/src/internal-integ-testing/org/gradle/integtests/fixtures/IntegrationTestHint.java

@@ -1,0 +1,1 @@
+./3p/gradle/src/resources-http/org/gradle/internal/resource/transport/http/HttpConnectorFactory.java mv ./3p/gradle/src/resources-http/org/gradle/internal/resource/transport/http/HttpConnectorFactory.java.new ./3p/gradle/src/resources-http/org/gradle/internal/resource/transport/http/HttpConnectorFactory.java

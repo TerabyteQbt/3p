@@ -1,0 +1,1 @@
+./3p/gradle/src/platform-base/org/gradle/language/base/internal/model/ComponentBinaryRules.java mv ./3p/gradle/src/platform-base/org/gradle/language/base/internal/model/ComponentBinaryRules.java.new ./3p/gradle/src/platform-base/org/gradle/language/base/internal/model/ComponentBinaryRules.java

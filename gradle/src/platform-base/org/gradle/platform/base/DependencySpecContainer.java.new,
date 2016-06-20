@@ -1,0 +1,1 @@
+./3p/gradle/src/platform-base/org/gradle/platform/base/DependencySpecContainer.java mv ./3p/gradle/src/platform-base/org/gradle/platform/base/DependencySpecContainer.java.new ./3p/gradle/src/platform-base/org/gradle/platform/base/DependencySpecContainer.java

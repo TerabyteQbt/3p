@@ -1,0 +1,1 @@
+./3p/gradle/samples/userguide/ant/useExternalAntTaskWithConfig/src/Source.java mv ./3p/gradle/samples/userguide/ant/useExternalAntTaskWithConfig/src/Source.java.new ./3p/gradle/samples/userguide/ant/useExternalAntTaskWithConfig/src/Source.java

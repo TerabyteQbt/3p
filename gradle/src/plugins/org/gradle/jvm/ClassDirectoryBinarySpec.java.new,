@@ -1,0 +1,1 @@
+./3p/gradle/src/plugins/org/gradle/jvm/ClassDirectoryBinarySpec.java mv ./3p/gradle/src/plugins/org/gradle/jvm/ClassDirectoryBinarySpec.java.new ./3p/gradle/src/plugins/org/gradle/jvm/ClassDirectoryBinarySpec.java

@@ -1,0 +1,1 @@
+./3p/gradle/src/publish/org/gradle/api/publish/plugins/package-info.java mv ./3p/gradle/src/publish/org/gradle/api/publish/plugins/package-info.java.new ./3p/gradle/src/publish/org/gradle/api/publish/plugins/package-info.java

@@ -1,0 +1,1 @@
+./3p/gradle/src/test-kit/org/gradle/testkit/runner/InvalidRunnerConfigurationException.java mv ./3p/gradle/src/test-kit/org/gradle/testkit/runner/InvalidRunnerConfigurationException.java.new ./3p/gradle/src/test-kit/org/gradle/testkit/runner/InvalidRunnerConfigurationException.java

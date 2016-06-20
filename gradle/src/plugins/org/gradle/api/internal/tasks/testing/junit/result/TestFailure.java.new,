@@ -1,0 +1,1 @@
+./3p/gradle/src/plugins/org/gradle/api/internal/tasks/testing/junit/result/TestFailure.java mv ./3p/gradle/src/plugins/org/gradle/api/internal/tasks/testing/junit/result/TestFailure.java.new ./3p/gradle/src/plugins/org/gradle/api/internal/tasks/testing/junit/result/TestFailure.java

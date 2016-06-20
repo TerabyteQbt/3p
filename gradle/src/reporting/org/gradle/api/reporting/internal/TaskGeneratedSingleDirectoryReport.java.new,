@@ -1,0 +1,1 @@
+./3p/gradle/src/reporting/org/gradle/api/reporting/internal/TaskGeneratedSingleDirectoryReport.java mv ./3p/gradle/src/reporting/org/gradle/api/reporting/internal/TaskGeneratedSingleDirectoryReport.java.new ./3p/gradle/src/reporting/org/gradle/api/reporting/internal/TaskGeneratedSingleDirectoryReport.java

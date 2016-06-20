@@ -1,0 +1,1 @@
+./3p/gradle/samples/java/multiproject/services/shared/src/main/java/org/gradle/services/shared/TestTest.java mv ./3p/gradle/samples/java/multiproject/services/shared/src/main/java/org/gradle/services/shared/TestTest.java.new ./3p/gradle/samples/java/multiproject/services/shared/src/main/java/org/gradle/services/shared/TestTest.java

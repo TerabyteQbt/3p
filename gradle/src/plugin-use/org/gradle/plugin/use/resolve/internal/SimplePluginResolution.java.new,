@@ -1,0 +1,1 @@
+./3p/gradle/src/plugin-use/org/gradle/plugin/use/resolve/internal/SimplePluginResolution.java mv ./3p/gradle/src/plugin-use/org/gradle/plugin/use/resolve/internal/SimplePluginResolution.java.new ./3p/gradle/src/plugin-use/org/gradle/plugin/use/resolve/internal/SimplePluginResolution.java

@@ -1,0 +1,1 @@
+./3p/gradle/src/javascript/org/gradle/plugins/javascript/jshint/internal/JsHintWorker.java mv ./3p/gradle/src/javascript/org/gradle/plugins/javascript/jshint/internal/JsHintWorker.java.new ./3p/gradle/src/javascript/org/gradle/plugins/javascript/jshint/internal/JsHintWorker.java

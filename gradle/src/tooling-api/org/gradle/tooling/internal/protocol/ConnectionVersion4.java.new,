@@ -1,0 +1,1 @@
+./3p/gradle/src/tooling-api/org/gradle/tooling/internal/protocol/ConnectionVersion4.java mv ./3p/gradle/src/tooling-api/org/gradle/tooling/internal/protocol/ConnectionVersion4.java.new ./3p/gradle/src/tooling-api/org/gradle/tooling/internal/protocol/ConnectionVersion4.java

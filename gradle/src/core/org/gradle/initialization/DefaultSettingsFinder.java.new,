@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/initialization/DefaultSettingsFinder.java mv ./3p/gradle/src/core/org/gradle/initialization/DefaultSettingsFinder.java.new ./3p/gradle/src/core/org/gradle/initialization/DefaultSettingsFinder.java

@@ -1,0 +1,1 @@
+./3p/gradle/src/dependency-management/org/gradle/internal/component/local/model/DefaultLibraryBinaryIdentifier.java mv ./3p/gradle/src/dependency-management/org/gradle/internal/component/local/model/DefaultLibraryBinaryIdentifier.java.new ./3p/gradle/src/dependency-management/org/gradle/internal/component/local/model/DefaultLibraryBinaryIdentifier.java

@@ -1,0 +1,1 @@
+./3p/gradle/src/native/org/gradle/internal/nativeintegration/filesystem/services/FallbackStat.java mv ./3p/gradle/src/native/org/gradle/internal/nativeintegration/filesystem/services/FallbackStat.java.new ./3p/gradle/src/native/org/gradle/internal/nativeintegration/filesystem/services/FallbackStat.java

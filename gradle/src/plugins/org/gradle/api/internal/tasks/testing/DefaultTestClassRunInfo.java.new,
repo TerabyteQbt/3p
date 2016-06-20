@@ -1,0 +1,1 @@
+./3p/gradle/src/plugins/org/gradle/api/internal/tasks/testing/DefaultTestClassRunInfo.java mv ./3p/gradle/src/plugins/org/gradle/api/internal/tasks/testing/DefaultTestClassRunInfo.java.new ./3p/gradle/src/plugins/org/gradle/api/internal/tasks/testing/DefaultTestClassRunInfo.java

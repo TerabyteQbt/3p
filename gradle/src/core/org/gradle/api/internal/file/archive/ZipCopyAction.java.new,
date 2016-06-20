@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/api/internal/file/archive/ZipCopyAction.java mv ./3p/gradle/src/core/org/gradle/api/internal/file/archive/ZipCopyAction.java.new ./3p/gradle/src/core/org/gradle/api/internal/file/archive/ZipCopyAction.java

@@ -1,0 +1,1 @@
+./3p/gradle/src/tooling-api/org/gradle/tooling/model/idea/IdeaDependencyScope.java mv ./3p/gradle/src/tooling-api/org/gradle/tooling/model/idea/IdeaDependencyScope.java.new ./3p/gradle/src/tooling-api/org/gradle/tooling/model/idea/IdeaDependencyScope.java

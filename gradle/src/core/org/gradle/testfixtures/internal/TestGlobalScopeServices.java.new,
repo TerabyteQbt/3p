@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/testfixtures/internal/TestGlobalScopeServices.java mv ./3p/gradle/src/core/org/gradle/testfixtures/internal/TestGlobalScopeServices.java.new ./3p/gradle/src/core/org/gradle/testfixtures/internal/TestGlobalScopeServices.java

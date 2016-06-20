@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/initialization/ScriptEvaluatingSettingsProcessor.java mv ./3p/gradle/src/core/org/gradle/initialization/ScriptEvaluatingSettingsProcessor.java.new ./3p/gradle/src/core/org/gradle/initialization/ScriptEvaluatingSettingsProcessor.java

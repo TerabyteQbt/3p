@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/logging/internal/LoggingOutputInternal.java mv ./3p/gradle/src/core/org/gradle/logging/internal/LoggingOutputInternal.java.new ./3p/gradle/src/core/org/gradle/logging/internal/LoggingOutputInternal.java

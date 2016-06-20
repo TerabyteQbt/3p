@@ -1,0 +1,1 @@
+./3p/gradle/src/resources-sftp/org/gradle/internal/resource/transport/sftp/SftpResourcesPluginServiceRegistry.java mv ./3p/gradle/src/resources-sftp/org/gradle/internal/resource/transport/sftp/SftpResourcesPluginServiceRegistry.java.new ./3p/gradle/src/resources-sftp/org/gradle/internal/resource/transport/sftp/SftpResourcesPluginServiceRegistry.java

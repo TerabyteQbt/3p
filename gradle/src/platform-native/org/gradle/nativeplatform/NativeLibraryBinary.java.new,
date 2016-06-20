@@ -1,0 +1,1 @@
+./3p/gradle/src/platform-native/org/gradle/nativeplatform/NativeLibraryBinary.java mv ./3p/gradle/src/platform-native/org/gradle/nativeplatform/NativeLibraryBinary.java.new ./3p/gradle/src/platform-native/org/gradle/nativeplatform/NativeLibraryBinary.java

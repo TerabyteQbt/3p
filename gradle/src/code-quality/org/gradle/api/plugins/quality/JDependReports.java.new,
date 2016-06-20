@@ -1,0 +1,1 @@
+./3p/gradle/src/code-quality/org/gradle/api/plugins/quality/JDependReports.java mv ./3p/gradle/src/code-quality/org/gradle/api/plugins/quality/JDependReports.java.new ./3p/gradle/src/code-quality/org/gradle/api/plugins/quality/JDependReports.java

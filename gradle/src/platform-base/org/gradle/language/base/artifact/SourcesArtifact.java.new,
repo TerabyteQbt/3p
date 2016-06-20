@@ -1,0 +1,1 @@
+./3p/gradle/src/platform-base/org/gradle/language/base/artifact/SourcesArtifact.java mv ./3p/gradle/src/platform-base/org/gradle/language/base/artifact/SourcesArtifact.java.new ./3p/gradle/src/platform-base/org/gradle/language/base/artifact/SourcesArtifact.java

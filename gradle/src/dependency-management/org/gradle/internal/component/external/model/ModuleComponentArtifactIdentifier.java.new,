@@ -1,0 +1,1 @@
+./3p/gradle/src/dependency-management/org/gradle/internal/component/external/model/ModuleComponentArtifactIdentifier.java mv ./3p/gradle/src/dependency-management/org/gradle/internal/component/external/model/ModuleComponentArtifactIdentifier.java.new ./3p/gradle/src/dependency-management/org/gradle/internal/component/external/model/ModuleComponentArtifactIdentifier.java

@@ -1,0 +1,1 @@
+./3p/gradle/src/launcher/org/gradle/tooling/internal/provider/ConnectionScopeServices.java mv ./3p/gradle/src/launcher/org/gradle/tooling/internal/provider/ConnectionScopeServices.java.new ./3p/gradle/src/launcher/org/gradle/tooling/internal/provider/ConnectionScopeServices.java

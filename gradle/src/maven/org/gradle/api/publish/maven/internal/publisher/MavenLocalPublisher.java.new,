@@ -1,0 +1,1 @@
+./3p/gradle/src/maven/org/gradle/api/publish/maven/internal/publisher/MavenLocalPublisher.java mv ./3p/gradle/src/maven/org/gradle/api/publish/maven/internal/publisher/MavenLocalPublisher.java.new ./3p/gradle/src/maven/org/gradle/api/publish/maven/internal/publisher/MavenLocalPublisher.java

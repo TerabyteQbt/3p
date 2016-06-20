@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/configuration/DefaultImportsReader.java mv ./3p/gradle/src/core/org/gradle/configuration/DefaultImportsReader.java.new ./3p/gradle/src/core/org/gradle/configuration/DefaultImportsReader.java

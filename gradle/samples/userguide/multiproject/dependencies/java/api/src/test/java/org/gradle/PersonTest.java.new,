@@ -1,0 +1,1 @@
+./3p/gradle/samples/userguide/multiproject/dependencies/java/api/src/test/java/org/gradle/PersonTest.java mv ./3p/gradle/samples/userguide/multiproject/dependencies/java/api/src/test/java/org/gradle/PersonTest.java.new ./3p/gradle/samples/userguide/multiproject/dependencies/java/api/src/test/java/org/gradle/PersonTest.java

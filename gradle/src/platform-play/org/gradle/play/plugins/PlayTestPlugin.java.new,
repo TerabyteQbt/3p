@@ -1,0 +1,1 @@
+./3p/gradle/src/platform-play/org/gradle/play/plugins/PlayTestPlugin.java mv ./3p/gradle/src/platform-play/org/gradle/play/plugins/PlayTestPlugin.java.new ./3p/gradle/src/platform-play/org/gradle/play/plugins/PlayTestPlugin.java

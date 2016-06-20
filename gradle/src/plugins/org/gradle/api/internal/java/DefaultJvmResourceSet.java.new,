@@ -1,0 +1,1 @@
+./3p/gradle/src/plugins/org/gradle/api/internal/java/DefaultJvmResourceSet.java mv ./3p/gradle/src/plugins/org/gradle/api/internal/java/DefaultJvmResourceSet.java.new ./3p/gradle/src/plugins/org/gradle/api/internal/java/DefaultJvmResourceSet.java

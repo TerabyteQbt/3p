@@ -1,0 +1,1 @@
+./3p/gradle/samples/java/multiproject/shared/src/test/java/org/gradle/shared/PersonTest.java mv ./3p/gradle/samples/java/multiproject/shared/src/test/java/org/gradle/shared/PersonTest.java.new ./3p/gradle/samples/java/multiproject/shared/src/test/java/org/gradle/shared/PersonTest.java

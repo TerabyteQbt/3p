@@ -1,0 +1,1 @@
+./3p/gradle/src/ui/org/gradle/gradleplugin/foundation/filters/AllowAllProjectAndTaskFilter.java mv ./3p/gradle/src/ui/org/gradle/gradleplugin/foundation/filters/AllowAllProjectAndTaskFilter.java.new ./3p/gradle/src/ui/org/gradle/gradleplugin/foundation/filters/AllowAllProjectAndTaskFilter.java

@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/api/internal/file/archive/compression/GzipArchiver.java mv ./3p/gradle/src/core/org/gradle/api/internal/file/archive/compression/GzipArchiver.java.new ./3p/gradle/src/core/org/gradle/api/internal/file/archive/compression/GzipArchiver.java

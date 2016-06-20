@@ -1,0 +1,1 @@
+./3p/gradle/src/ui/org/gradle/foundation/ipc/basic/MessageObject.java mv ./3p/gradle/src/ui/org/gradle/foundation/ipc/basic/MessageObject.java.new ./3p/gradle/src/ui/org/gradle/foundation/ipc/basic/MessageObject.java

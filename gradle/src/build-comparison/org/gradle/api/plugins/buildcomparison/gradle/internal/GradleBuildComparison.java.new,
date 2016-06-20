@@ -1,0 +1,1 @@
+./3p/gradle/src/build-comparison/org/gradle/api/plugins/buildcomparison/gradle/internal/GradleBuildComparison.java mv ./3p/gradle/src/build-comparison/org/gradle/api/plugins/buildcomparison/gradle/internal/GradleBuildComparison.java.new ./3p/gradle/src/build-comparison/org/gradle/api/plugins/buildcomparison/gradle/internal/GradleBuildComparison.java

@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/api/internal/changedetection/rules/SummaryTaskStateChanges.java mv ./3p/gradle/src/core/org/gradle/api/internal/changedetection/rules/SummaryTaskStateChanges.java.new ./3p/gradle/src/core/org/gradle/api/internal/changedetection/rules/SummaryTaskStateChanges.java

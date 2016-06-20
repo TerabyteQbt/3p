@@ -1,0 +1,1 @@
+./3p/gradle/src/build-init/org/gradle/buildinit/plugins/internal/SimpleGlobalFilesBuildSettingsDescriptor.java mv ./3p/gradle/src/build-init/org/gradle/buildinit/plugins/internal/SimpleGlobalFilesBuildSettingsDescriptor.java.new ./3p/gradle/src/build-init/org/gradle/buildinit/plugins/internal/SimpleGlobalFilesBuildSettingsDescriptor.java

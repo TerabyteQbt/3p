@@ -1,0 +1,1 @@
+./3p/gradle/src/launcher/org/gradle/launcher/daemon/diagnostics/DaemonStartupInfo.java mv ./3p/gradle/src/launcher/org/gradle/launcher/daemon/diagnostics/DaemonStartupInfo.java.new ./3p/gradle/src/launcher/org/gradle/launcher/daemon/diagnostics/DaemonStartupInfo.java

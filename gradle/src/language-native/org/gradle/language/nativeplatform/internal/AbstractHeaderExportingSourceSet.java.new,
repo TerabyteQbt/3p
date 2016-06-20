@@ -1,0 +1,1 @@
+./3p/gradle/src/language-native/org/gradle/language/nativeplatform/internal/AbstractHeaderExportingSourceSet.java mv ./3p/gradle/src/language-native/org/gradle/language/nativeplatform/internal/AbstractHeaderExportingSourceSet.java.new ./3p/gradle/src/language-native/org/gradle/language/nativeplatform/internal/AbstractHeaderExportingSourceSet.java

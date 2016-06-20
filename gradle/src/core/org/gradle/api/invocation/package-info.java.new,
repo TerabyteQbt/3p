@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/api/invocation/package-info.java mv ./3p/gradle/src/core/org/gradle/api/invocation/package-info.java.new ./3p/gradle/src/core/org/gradle/api/invocation/package-info.java

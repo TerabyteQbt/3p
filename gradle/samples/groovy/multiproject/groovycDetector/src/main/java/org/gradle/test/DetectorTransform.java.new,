@@ -1,0 +1,1 @@
+./3p/gradle/samples/groovy/multiproject/groovycDetector/src/main/java/org/gradle/test/DetectorTransform.java mv ./3p/gradle/samples/groovy/multiproject/groovycDetector/src/main/java/org/gradle/test/DetectorTransform.java.new ./3p/gradle/samples/groovy/multiproject/groovycDetector/src/main/java/org/gradle/test/DetectorTransform.java

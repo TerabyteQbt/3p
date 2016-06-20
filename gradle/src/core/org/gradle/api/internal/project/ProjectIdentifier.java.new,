@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/api/internal/project/ProjectIdentifier.java mv ./3p/gradle/src/core/org/gradle/api/internal/project/ProjectIdentifier.java.new ./3p/gradle/src/core/org/gradle/api/internal/project/ProjectIdentifier.java

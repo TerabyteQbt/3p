@@ -1,0 +1,1 @@
+./3p/gradle/src/tooling-api/org/gradle/tooling/internal/adapter/SourceObjectMapping.java mv ./3p/gradle/src/tooling-api/org/gradle/tooling/internal/adapter/SourceObjectMapping.java.new ./3p/gradle/src/tooling-api/org/gradle/tooling/internal/adapter/SourceObjectMapping.java

@@ -1,0 +1,1 @@
+./3p/gradle/src/dependency-management/org/gradle/api/internal/artifacts/DefaultDependencyManagementServices.java mv ./3p/gradle/src/dependency-management/org/gradle/api/internal/artifacts/DefaultDependencyManagementServices.java.new ./3p/gradle/src/dependency-management/org/gradle/api/internal/artifacts/DefaultDependencyManagementServices.java

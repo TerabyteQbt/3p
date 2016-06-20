@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/api/resources/Resource.java mv ./3p/gradle/src/core/org/gradle/api/resources/Resource.java.new ./3p/gradle/src/core/org/gradle/api/resources/Resource.java

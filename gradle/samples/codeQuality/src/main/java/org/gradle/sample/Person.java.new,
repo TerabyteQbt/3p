@@ -1,0 +1,1 @@
+./3p/gradle/samples/codeQuality/src/main/java/org/gradle/sample/Person.java mv ./3p/gradle/samples/codeQuality/src/main/java/org/gradle/sample/Person.java.new ./3p/gradle/samples/codeQuality/src/main/java/org/gradle/sample/Person.java

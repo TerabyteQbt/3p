@@ -1,0 +1,1 @@
+./3p/gradle/src/ivy/org/gradle/api/publish/ivy/internal/dependency/IvyDependencyInternal.java mv ./3p/gradle/src/ivy/org/gradle/api/publish/ivy/internal/dependency/IvyDependencyInternal.java.new ./3p/gradle/src/ivy/org/gradle/api/publish/ivy/internal/dependency/IvyDependencyInternal.java

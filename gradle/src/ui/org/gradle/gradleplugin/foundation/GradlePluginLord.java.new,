@@ -1,0 +1,1 @@
+./3p/gradle/src/ui/org/gradle/gradleplugin/foundation/GradlePluginLord.java mv ./3p/gradle/src/ui/org/gradle/gradleplugin/foundation/GradlePluginLord.java.new ./3p/gradle/src/ui/org/gradle/gradleplugin/foundation/GradlePluginLord.java

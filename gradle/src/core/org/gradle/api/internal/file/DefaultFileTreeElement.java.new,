@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/api/internal/file/DefaultFileTreeElement.java mv ./3p/gradle/src/core/org/gradle/api/internal/file/DefaultFileTreeElement.java.new ./3p/gradle/src/core/org/gradle/api/internal/file/DefaultFileTreeElement.java

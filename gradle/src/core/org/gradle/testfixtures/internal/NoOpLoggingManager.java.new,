@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/testfixtures/internal/NoOpLoggingManager.java mv ./3p/gradle/src/core/org/gradle/testfixtures/internal/NoOpLoggingManager.java.new ./3p/gradle/src/core/org/gradle/testfixtures/internal/NoOpLoggingManager.java

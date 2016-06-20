@@ -1,0 +1,1 @@
+./3p/gradle/src/internal-testing/org/gradle/integtests/fixtures/TestExecutionResult.java mv ./3p/gradle/src/internal-testing/org/gradle/integtests/fixtures/TestExecutionResult.java.new ./3p/gradle/src/internal-testing/org/gradle/integtests/fixtures/TestExecutionResult.java

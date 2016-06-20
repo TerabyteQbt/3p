@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/logging/internal/DefaultStandardOutputRedirector.java mv ./3p/gradle/src/core/org/gradle/logging/internal/DefaultStandardOutputRedirector.java.new ./3p/gradle/src/core/org/gradle/logging/internal/DefaultStandardOutputRedirector.java

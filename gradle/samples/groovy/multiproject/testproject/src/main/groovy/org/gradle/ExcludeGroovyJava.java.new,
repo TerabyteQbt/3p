@@ -1,0 +1,1 @@
+./3p/gradle/samples/groovy/multiproject/testproject/src/main/groovy/org/gradle/ExcludeGroovyJava.java mv ./3p/gradle/samples/groovy/multiproject/testproject/src/main/groovy/org/gradle/ExcludeGroovyJava.java.new ./3p/gradle/samples/groovy/multiproject/testproject/src/main/groovy/org/gradle/ExcludeGroovyJava.java

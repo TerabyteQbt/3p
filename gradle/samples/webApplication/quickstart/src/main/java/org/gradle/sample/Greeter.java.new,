@@ -1,0 +1,1 @@
+./3p/gradle/samples/webApplication/quickstart/src/main/java/org/gradle/sample/Greeter.java mv ./3p/gradle/samples/webApplication/quickstart/src/main/java/org/gradle/sample/Greeter.java.new ./3p/gradle/samples/webApplication/quickstart/src/main/java/org/gradle/sample/Greeter.java

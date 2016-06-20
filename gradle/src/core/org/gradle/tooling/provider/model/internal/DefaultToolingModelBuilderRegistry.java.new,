@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/tooling/provider/model/internal/DefaultToolingModelBuilderRegistry.java mv ./3p/gradle/src/core/org/gradle/tooling/provider/model/internal/DefaultToolingModelBuilderRegistry.java.new ./3p/gradle/src/core/org/gradle/tooling/provider/model/internal/DefaultToolingModelBuilderRegistry.java

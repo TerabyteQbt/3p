@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/configuration/InitScriptTarget.java mv ./3p/gradle/src/core/org/gradle/configuration/InitScriptTarget.java.new ./3p/gradle/src/core/org/gradle/configuration/InitScriptTarget.java

@@ -1,0 +1,1 @@
+./3p/gradle/src/platform-base/org/gradle/api/internal/resolve/VariantsMatcher.java mv ./3p/gradle/src/platform-base/org/gradle/api/internal/resolve/VariantsMatcher.java.new ./3p/gradle/src/platform-base/org/gradle/api/internal/resolve/VariantsMatcher.java

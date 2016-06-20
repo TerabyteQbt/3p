@@ -1,0 +1,1 @@
+./3p/gradle/samples/testing/junit/categories/src/test/java/org/gradle/junit/CategoryA.java mv ./3p/gradle/samples/testing/junit/categories/src/test/java/org/gradle/junit/CategoryA.java.new ./3p/gradle/samples/testing/junit/categories/src/test/java/org/gradle/junit/CategoryA.java

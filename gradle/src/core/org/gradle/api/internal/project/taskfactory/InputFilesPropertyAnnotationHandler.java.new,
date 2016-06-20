@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/api/internal/project/taskfactory/InputFilesPropertyAnnotationHandler.java mv ./3p/gradle/src/core/org/gradle/api/internal/project/taskfactory/InputFilesPropertyAnnotationHandler.java.new ./3p/gradle/src/core/org/gradle/api/internal/project/taskfactory/InputFilesPropertyAnnotationHandler.java

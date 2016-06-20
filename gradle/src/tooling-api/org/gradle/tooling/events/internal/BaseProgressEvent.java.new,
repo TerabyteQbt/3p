@@ -1,0 +1,1 @@
+./3p/gradle/src/tooling-api/org/gradle/tooling/events/internal/BaseProgressEvent.java mv ./3p/gradle/src/tooling-api/org/gradle/tooling/events/internal/BaseProgressEvent.java.new ./3p/gradle/src/tooling-api/org/gradle/tooling/events/internal/BaseProgressEvent.java

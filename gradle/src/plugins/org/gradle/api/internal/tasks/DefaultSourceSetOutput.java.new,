@@ -1,0 +1,1 @@
+./3p/gradle/src/plugins/org/gradle/api/internal/tasks/DefaultSourceSetOutput.java mv ./3p/gradle/src/plugins/org/gradle/api/internal/tasks/DefaultSourceSetOutput.java.new ./3p/gradle/src/plugins/org/gradle/api/internal/tasks/DefaultSourceSetOutput.java

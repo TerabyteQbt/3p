@@ -1,0 +1,1 @@
+./3p/gradle/src/native/org/gradle/internal/nativeintegration/filesystem/services/UnavailablePosixFiles.java mv ./3p/gradle/src/native/org/gradle/internal/nativeintegration/filesystem/services/UnavailablePosixFiles.java.new ./3p/gradle/src/native/org/gradle/internal/nativeintegration/filesystem/services/UnavailablePosixFiles.java

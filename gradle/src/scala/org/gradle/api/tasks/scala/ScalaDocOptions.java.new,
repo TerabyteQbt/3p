@@ -1,0 +1,1 @@
+./3p/gradle/src/scala/org/gradle/api/tasks/scala/ScalaDocOptions.java mv ./3p/gradle/src/scala/org/gradle/api/tasks/scala/ScalaDocOptions.java.new ./3p/gradle/src/scala/org/gradle/api/tasks/scala/ScalaDocOptions.java

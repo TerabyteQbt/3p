@@ -1,0 +1,1 @@
+./3p/gradle/src/base-services/org/gradle/internal/operations/BuildOperationProcessor.java mv ./3p/gradle/src/base-services/org/gradle/internal/operations/BuildOperationProcessor.java.new ./3p/gradle/src/base-services/org/gradle/internal/operations/BuildOperationProcessor.java

@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/groovy/scripts/internal/DefaultScriptCompilationHandler.java mv ./3p/gradle/src/core/org/gradle/groovy/scripts/internal/DefaultScriptCompilationHandler.java.new ./3p/gradle/src/core/org/gradle/groovy/scripts/internal/DefaultScriptCompilationHandler.java

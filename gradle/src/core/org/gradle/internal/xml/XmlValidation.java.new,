@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/internal/xml/XmlValidation.java mv ./3p/gradle/src/core/org/gradle/internal/xml/XmlValidation.java.new ./3p/gradle/src/core/org/gradle/internal/xml/XmlValidation.java

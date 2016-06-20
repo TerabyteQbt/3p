@@ -1,0 +1,1 @@
+./3p/gradle/src/launcher/org/gradle/tooling/internal/provider/ClassLoaderDetails.java mv ./3p/gradle/src/launcher/org/gradle/tooling/internal/provider/ClassLoaderDetails.java.new ./3p/gradle/src/launcher/org/gradle/tooling/internal/provider/ClassLoaderDetails.java

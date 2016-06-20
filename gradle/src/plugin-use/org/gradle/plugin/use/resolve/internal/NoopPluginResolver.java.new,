@@ -1,0 +1,1 @@
+./3p/gradle/src/plugin-use/org/gradle/plugin/use/resolve/internal/NoopPluginResolver.java mv ./3p/gradle/src/plugin-use/org/gradle/plugin/use/resolve/internal/NoopPluginResolver.java.new ./3p/gradle/src/plugin-use/org/gradle/plugin/use/resolve/internal/NoopPluginResolver.java

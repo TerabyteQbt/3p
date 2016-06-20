@@ -1,0 +1,1 @@
+./3p/gradle/src/platform-base/org/gradle/language/base/internal/tasks/SimpleStaleClassCleaner.java mv ./3p/gradle/src/platform-base/org/gradle/language/base/internal/tasks/SimpleStaleClassCleaner.java.new ./3p/gradle/src/platform-base/org/gradle/language/base/internal/tasks/SimpleStaleClassCleaner.java

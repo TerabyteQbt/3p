@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/api/internal/changedetection/changes/ChangesOnlyIncrementalTaskInputs.java mv ./3p/gradle/src/core/org/gradle/api/internal/changedetection/changes/ChangesOnlyIncrementalTaskInputs.java.new ./3p/gradle/src/core/org/gradle/api/internal/changedetection/changes/ChangesOnlyIncrementalTaskInputs.java

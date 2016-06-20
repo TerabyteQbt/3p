@@ -1,0 +1,1 @@
+./3p/gradle/src/test-kit/org/gradle/testkit/runner/BuildResult.java mv ./3p/gradle/src/test-kit/org/gradle/testkit/runner/BuildResult.java.new ./3p/gradle/src/test-kit/org/gradle/testkit/runner/BuildResult.java

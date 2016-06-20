@@ -1,0 +1,1 @@
+./3p/gradle/samples/toolingApi/idea/src/main/java/org/gradle/sample/Main.java mv ./3p/gradle/samples/toolingApi/idea/src/main/java/org/gradle/sample/Main.java.new ./3p/gradle/samples/toolingApi/idea/src/main/java/org/gradle/sample/Main.java

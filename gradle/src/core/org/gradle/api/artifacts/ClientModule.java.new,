@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/api/artifacts/ClientModule.java mv ./3p/gradle/src/core/org/gradle/api/artifacts/ClientModule.java.new ./3p/gradle/src/core/org/gradle/api/artifacts/ClientModule.java

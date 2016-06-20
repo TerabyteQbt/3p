@@ -1,0 +1,1 @@
+./3p/gradle/samples/newJavaPlugin/multiplecomponents/util/src/main/java/org/gradle/Utils.java mv ./3p/gradle/samples/newJavaPlugin/multiplecomponents/util/src/main/java/org/gradle/Utils.java.new ./3p/gradle/samples/newJavaPlugin/multiplecomponents/util/src/main/java/org/gradle/Utils.java

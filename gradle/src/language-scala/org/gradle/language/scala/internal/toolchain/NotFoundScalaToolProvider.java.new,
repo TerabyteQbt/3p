@@ -1,0 +1,1 @@
+./3p/gradle/src/language-scala/org/gradle/language/scala/internal/toolchain/NotFoundScalaToolProvider.java mv ./3p/gradle/src/language-scala/org/gradle/language/scala/internal/toolchain/NotFoundScalaToolProvider.java.new ./3p/gradle/src/language-scala/org/gradle/language/scala/internal/toolchain/NotFoundScalaToolProvider.java

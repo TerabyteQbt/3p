@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/groovy/scripts/internal/ScriptClassCompiler.java mv ./3p/gradle/src/core/org/gradle/groovy/scripts/internal/ScriptClassCompiler.java.new ./3p/gradle/src/core/org/gradle/groovy/scripts/internal/ScriptClassCompiler.java

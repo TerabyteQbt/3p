@@ -1,0 +1,1 @@
+./3p/gradle/src/platform-native/org/gradle/nativeplatform/platform/internal/Architectures.java mv ./3p/gradle/src/platform-native/org/gradle/nativeplatform/platform/internal/Architectures.java.new ./3p/gradle/src/platform-native/org/gradle/nativeplatform/platform/internal/Architectures.java

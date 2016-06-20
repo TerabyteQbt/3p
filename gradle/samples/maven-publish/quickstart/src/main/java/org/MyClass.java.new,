@@ -1,0 +1,1 @@
+./3p/gradle/samples/maven-publish/quickstart/src/main/java/org/MyClass.java mv ./3p/gradle/samples/maven-publish/quickstart/src/main/java/org/MyClass.java.new ./3p/gradle/samples/maven-publish/quickstart/src/main/java/org/MyClass.java

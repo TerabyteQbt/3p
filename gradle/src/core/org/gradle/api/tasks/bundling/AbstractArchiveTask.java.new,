@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/api/tasks/bundling/AbstractArchiveTask.java mv ./3p/gradle/src/core/org/gradle/api/tasks/bundling/AbstractArchiveTask.java.new ./3p/gradle/src/core/org/gradle/api/tasks/bundling/AbstractArchiveTask.java

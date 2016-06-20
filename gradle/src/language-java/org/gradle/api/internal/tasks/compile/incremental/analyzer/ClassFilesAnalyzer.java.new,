@@ -1,0 +1,1 @@
+./3p/gradle/src/language-java/org/gradle/api/internal/tasks/compile/incremental/analyzer/ClassFilesAnalyzer.java mv ./3p/gradle/src/language-java/org/gradle/api/internal/tasks/compile/incremental/analyzer/ClassFilesAnalyzer.java.new ./3p/gradle/src/language-java/org/gradle/api/internal/tasks/compile/incremental/analyzer/ClassFilesAnalyzer.java

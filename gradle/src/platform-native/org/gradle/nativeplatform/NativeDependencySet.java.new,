@@ -1,0 +1,1 @@
+./3p/gradle/src/platform-native/org/gradle/nativeplatform/NativeDependencySet.java mv ./3p/gradle/src/platform-native/org/gradle/nativeplatform/NativeDependencySet.java.new ./3p/gradle/src/platform-native/org/gradle/nativeplatform/NativeDependencySet.java

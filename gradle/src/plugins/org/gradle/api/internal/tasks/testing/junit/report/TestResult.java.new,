@@ -1,0 +1,1 @@
+./3p/gradle/src/plugins/org/gradle/api/internal/tasks/testing/junit/report/TestResult.java mv ./3p/gradle/src/plugins/org/gradle/api/internal/tasks/testing/junit/report/TestResult.java.new ./3p/gradle/src/plugins/org/gradle/api/internal/tasks/testing/junit/report/TestResult.java

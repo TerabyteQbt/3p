@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/util/DeprecationLogger.java mv ./3p/gradle/src/core/org/gradle/util/DeprecationLogger.java.new ./3p/gradle/src/core/org/gradle/util/DeprecationLogger.java

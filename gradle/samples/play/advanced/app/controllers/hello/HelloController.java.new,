@@ -1,0 +1,1 @@
+./3p/gradle/samples/play/advanced/app/controllers/hello/HelloController.java mv ./3p/gradle/samples/play/advanced/app/controllers/hello/HelloController.java.new ./3p/gradle/samples/play/advanced/app/controllers/hello/HelloController.java

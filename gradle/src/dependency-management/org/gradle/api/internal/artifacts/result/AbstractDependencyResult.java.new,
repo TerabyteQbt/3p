@@ -1,0 +1,1 @@
+./3p/gradle/src/dependency-management/org/gradle/api/internal/artifacts/result/AbstractDependencyResult.java mv ./3p/gradle/src/dependency-management/org/gradle/api/internal/artifacts/result/AbstractDependencyResult.java.new ./3p/gradle/src/dependency-management/org/gradle/api/internal/artifacts/result/AbstractDependencyResult.java

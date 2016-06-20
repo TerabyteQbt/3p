@@ -1,0 +1,1 @@
+./3p/gradle/src/antlr/org/gradle/api/plugins/antlr/internal/AntlrWorkerClient.java mv ./3p/gradle/src/antlr/org/gradle/api/plugins/antlr/internal/AntlrWorkerClient.java.new ./3p/gradle/src/antlr/org/gradle/api/plugins/antlr/internal/AntlrWorkerClient.java

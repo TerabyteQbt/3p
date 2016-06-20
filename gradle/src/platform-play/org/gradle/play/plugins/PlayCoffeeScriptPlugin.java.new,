@@ -1,0 +1,1 @@
+./3p/gradle/src/platform-play/org/gradle/play/plugins/PlayCoffeeScriptPlugin.java mv ./3p/gradle/src/platform-play/org/gradle/play/plugins/PlayCoffeeScriptPlugin.java.new ./3p/gradle/src/platform-play/org/gradle/play/plugins/PlayCoffeeScriptPlugin.java

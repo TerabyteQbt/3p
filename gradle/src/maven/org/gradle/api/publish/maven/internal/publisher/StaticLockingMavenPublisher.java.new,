@@ -1,0 +1,1 @@
+./3p/gradle/src/maven/org/gradle/api/publish/maven/internal/publisher/StaticLockingMavenPublisher.java mv ./3p/gradle/src/maven/org/gradle/api/publish/maven/internal/publisher/StaticLockingMavenPublisher.java.new ./3p/gradle/src/maven/org/gradle/api/publish/maven/internal/publisher/StaticLockingMavenPublisher.java

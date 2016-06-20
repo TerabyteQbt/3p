@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/api/internal/artifacts/dependencies/DefaultProjectDependency.java mv ./3p/gradle/src/core/org/gradle/api/internal/artifacts/dependencies/DefaultProjectDependency.java.new ./3p/gradle/src/core/org/gradle/api/internal/artifacts/dependencies/DefaultProjectDependency.java

@@ -1,0 +1,1 @@
+./3p/gradle/src/ide/org/gradle/plugins/ide/internal/generator/generator/Generator.java mv ./3p/gradle/src/ide/org/gradle/plugins/ide/internal/generator/generator/Generator.java.new ./3p/gradle/src/ide/org/gradle/plugins/ide/internal/generator/generator/Generator.java

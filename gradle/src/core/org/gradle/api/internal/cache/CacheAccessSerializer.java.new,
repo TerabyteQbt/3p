@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/api/internal/cache/CacheAccessSerializer.java mv ./3p/gradle/src/core/org/gradle/api/internal/cache/CacheAccessSerializer.java.new ./3p/gradle/src/core/org/gradle/api/internal/cache/CacheAccessSerializer.java

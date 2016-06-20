@@ -1,0 +1,1 @@
+./3p/gradle/src/announce/org/gradle/api/plugins/announce/Announcer.java mv ./3p/gradle/src/announce/org/gradle/api/plugins/announce/Announcer.java.new ./3p/gradle/src/announce/org/gradle/api/plugins/announce/Announcer.java

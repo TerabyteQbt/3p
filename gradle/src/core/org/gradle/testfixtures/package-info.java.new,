@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/testfixtures/package-info.java mv ./3p/gradle/src/core/org/gradle/testfixtures/package-info.java.new ./3p/gradle/src/core/org/gradle/testfixtures/package-info.java

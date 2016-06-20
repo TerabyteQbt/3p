@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/api/artifacts/component/ModuleComponentSelector.java mv ./3p/gradle/src/core/org/gradle/api/artifacts/component/ModuleComponentSelector.java.new ./3p/gradle/src/core/org/gradle/api/artifacts/component/ModuleComponentSelector.java

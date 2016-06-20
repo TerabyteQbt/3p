@@ -1,0 +1,1 @@
+./3p/gradle/src/plugins/org/gradle/api/distribution/Distribution.java mv ./3p/gradle/src/plugins/org/gradle/api/distribution/Distribution.java.new ./3p/gradle/src/plugins/org/gradle/api/distribution/Distribution.java

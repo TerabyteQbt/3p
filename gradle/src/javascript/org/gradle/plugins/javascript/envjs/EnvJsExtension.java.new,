@@ -1,0 +1,1 @@
+./3p/gradle/src/javascript/org/gradle/plugins/javascript/envjs/EnvJsExtension.java mv ./3p/gradle/src/javascript/org/gradle/plugins/javascript/envjs/EnvJsExtension.java.new ./3p/gradle/src/javascript/org/gradle/plugins/javascript/envjs/EnvJsExtension.java

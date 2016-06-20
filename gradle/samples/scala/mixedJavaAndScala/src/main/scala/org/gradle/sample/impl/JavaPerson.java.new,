@@ -1,0 +1,1 @@
+./3p/gradle/samples/scala/mixedJavaAndScala/src/main/scala/org/gradle/sample/impl/JavaPerson.java mv ./3p/gradle/samples/scala/mixedJavaAndScala/src/main/scala/org/gradle/sample/impl/JavaPerson.java.new ./3p/gradle/samples/scala/mixedJavaAndScala/src/main/scala/org/gradle/sample/impl/JavaPerson.java

@@ -1,0 +1,1 @@
+./3p/gradle/src/publish/org/gradle/api/publish/internal/DefaultPublicationContainer.java mv ./3p/gradle/src/publish/org/gradle/api/publish/internal/DefaultPublicationContainer.java.new ./3p/gradle/src/publish/org/gradle/api/publish/internal/DefaultPublicationContainer.java

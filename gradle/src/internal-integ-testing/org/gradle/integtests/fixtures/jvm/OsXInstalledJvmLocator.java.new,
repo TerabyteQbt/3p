@@ -1,0 +1,1 @@
+./3p/gradle/src/internal-integ-testing/org/gradle/integtests/fixtures/jvm/OsXInstalledJvmLocator.java mv ./3p/gradle/src/internal-integ-testing/org/gradle/integtests/fixtures/jvm/OsXInstalledJvmLocator.java.new ./3p/gradle/src/internal-integ-testing/org/gradle/integtests/fixtures/jvm/OsXInstalledJvmLocator.java

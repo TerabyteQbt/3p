@@ -1,0 +1,1 @@
+./3p/gradle/src/ui/org/gradle/gradleplugin/foundation/favorites/FavoritesSerializable.java mv ./3p/gradle/src/ui/org/gradle/gradleplugin/foundation/favorites/FavoritesSerializable.java.new ./3p/gradle/src/ui/org/gradle/gradleplugin/foundation/favorites/FavoritesSerializable.java

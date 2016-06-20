@@ -1,0 +1,1 @@
+./3p/gradle/src/internal-integ-testing/org/gradle/test/fixtures/resource/RemoteArtifact.java mv ./3p/gradle/src/internal-integ-testing/org/gradle/test/fixtures/resource/RemoteArtifact.java.new ./3p/gradle/src/internal-integ-testing/org/gradle/test/fixtures/resource/RemoteArtifact.java

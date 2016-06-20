@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/api/artifacts/result/ArtifactResolutionResult.java mv ./3p/gradle/src/core/org/gradle/api/artifacts/result/ArtifactResolutionResult.java.new ./3p/gradle/src/core/org/gradle/api/artifacts/result/ArtifactResolutionResult.java

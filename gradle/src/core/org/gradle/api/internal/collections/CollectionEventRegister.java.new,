@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/api/internal/collections/CollectionEventRegister.java mv ./3p/gradle/src/core/org/gradle/api/internal/collections/CollectionEventRegister.java.new ./3p/gradle/src/core/org/gradle/api/internal/collections/CollectionEventRegister.java

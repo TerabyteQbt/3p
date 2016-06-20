@@ -1,0 +1,1 @@
+./3p/gradle/src/platform-native/org/gradle/nativeplatform/toolchain/internal/msvcpp/VisualCppPlatformToolProvider.java mv ./3p/gradle/src/platform-native/org/gradle/nativeplatform/toolchain/internal/msvcpp/VisualCppPlatformToolProvider.java.new ./3p/gradle/src/platform-native/org/gradle/nativeplatform/toolchain/internal/msvcpp/VisualCppPlatformToolProvider.java

@@ -1,0 +1,1 @@
+./3p/gradle/src/native/org/gradle/internal/nativeintegration/filesystem/services/WindowsSymlink.java mv ./3p/gradle/src/native/org/gradle/internal/nativeintegration/filesystem/services/WindowsSymlink.java.new ./3p/gradle/src/native/org/gradle/internal/nativeintegration/filesystem/services/WindowsSymlink.java

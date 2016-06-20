@@ -1,0 +1,1 @@
+./3p/gradle/src/osgi/org/gradle/api/internal/plugins/osgi/DefaultOsgiManifest.java mv ./3p/gradle/src/osgi/org/gradle/api/internal/plugins/osgi/DefaultOsgiManifest.java.new ./3p/gradle/src/osgi/org/gradle/api/internal/plugins/osgi/DefaultOsgiManifest.java

@@ -1,0 +1,1 @@
+./3p/gradle/src/sonar/org/gradle/sonar/runner/SonarRunnerRootExtension.java mv ./3p/gradle/src/sonar/org/gradle/sonar/runner/SonarRunnerRootExtension.java.new ./3p/gradle/src/sonar/org/gradle/sonar/runner/SonarRunnerRootExtension.java

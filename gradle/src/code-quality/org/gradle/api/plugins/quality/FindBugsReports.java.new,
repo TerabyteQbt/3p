@@ -1,0 +1,1 @@
+./3p/gradle/src/code-quality/org/gradle/api/plugins/quality/FindBugsReports.java mv ./3p/gradle/src/code-quality/org/gradle/api/plugins/quality/FindBugsReports.java.new ./3p/gradle/src/code-quality/org/gradle/api/plugins/quality/FindBugsReports.java

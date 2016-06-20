@@ -1,0 +1,1 @@
+./3p/gradle/src/model-core/org/gradle/model/internal/inspect/DefaultMethodRuleDefinition.java mv ./3p/gradle/src/model-core/org/gradle/model/internal/inspect/DefaultMethodRuleDefinition.java.new ./3p/gradle/src/model-core/org/gradle/model/internal/inspect/DefaultMethodRuleDefinition.java

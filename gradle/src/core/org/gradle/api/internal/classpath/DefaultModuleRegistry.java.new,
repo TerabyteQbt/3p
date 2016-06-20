@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/api/internal/classpath/DefaultModuleRegistry.java mv ./3p/gradle/src/core/org/gradle/api/internal/classpath/DefaultModuleRegistry.java.new ./3p/gradle/src/core/org/gradle/api/internal/classpath/DefaultModuleRegistry.java

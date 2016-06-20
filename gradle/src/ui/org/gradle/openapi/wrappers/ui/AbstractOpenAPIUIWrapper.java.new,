@@ -1,0 +1,1 @@
+./3p/gradle/src/ui/org/gradle/openapi/wrappers/ui/AbstractOpenAPIUIWrapper.java mv ./3p/gradle/src/ui/org/gradle/openapi/wrappers/ui/AbstractOpenAPIUIWrapper.java.new ./3p/gradle/src/ui/org/gradle/openapi/wrappers/ui/AbstractOpenAPIUIWrapper.java

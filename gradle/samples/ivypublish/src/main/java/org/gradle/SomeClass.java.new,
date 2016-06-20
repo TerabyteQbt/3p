@@ -1,0 +1,1 @@
+./3p/gradle/samples/ivypublish/src/main/java/org/gradle/SomeClass.java mv ./3p/gradle/samples/ivypublish/src/main/java/org/gradle/SomeClass.java.new ./3p/gradle/samples/ivypublish/src/main/java/org/gradle/SomeClass.java

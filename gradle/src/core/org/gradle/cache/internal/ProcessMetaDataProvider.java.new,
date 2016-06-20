@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/cache/internal/ProcessMetaDataProvider.java mv ./3p/gradle/src/core/org/gradle/cache/internal/ProcessMetaDataProvider.java.new ./3p/gradle/src/core/org/gradle/cache/internal/ProcessMetaDataProvider.java

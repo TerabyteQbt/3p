@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/api/Plugin.java mv ./3p/gradle/src/core/org/gradle/api/Plugin.java.new ./3p/gradle/src/core/org/gradle/api/Plugin.java

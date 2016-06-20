@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/deployment/internal/DeploymentRegistry.java mv ./3p/gradle/src/core/org/gradle/deployment/internal/DeploymentRegistry.java.new ./3p/gradle/src/core/org/gradle/deployment/internal/DeploymentRegistry.java

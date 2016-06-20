@@ -1,0 +1,1 @@
+./3p/gradle/src/antlr/org/gradle/api/plugins/antlr/internal/antlr2/GenerationPlan.java mv ./3p/gradle/src/antlr/org/gradle/api/plugins/antlr/internal/antlr2/GenerationPlan.java.new ./3p/gradle/src/antlr/org/gradle/api/plugins/antlr/internal/antlr2/GenerationPlan.java

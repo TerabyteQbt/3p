@@ -1,0 +1,1 @@
+./3p/gradle/src/platform-native/org/gradle/nativeplatform/plugins/NativeComponentModelPlugin.java mv ./3p/gradle/src/platform-native/org/gradle/nativeplatform/plugins/NativeComponentModelPlugin.java.new ./3p/gradle/src/platform-native/org/gradle/nativeplatform/plugins/NativeComponentModelPlugin.java

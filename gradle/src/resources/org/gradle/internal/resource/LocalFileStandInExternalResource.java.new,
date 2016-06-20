@@ -1,0 +1,1 @@
+./3p/gradle/src/resources/org/gradle/internal/resource/LocalFileStandInExternalResource.java mv ./3p/gradle/src/resources/org/gradle/internal/resource/LocalFileStandInExternalResource.java.new ./3p/gradle/src/resources/org/gradle/internal/resource/LocalFileStandInExternalResource.java

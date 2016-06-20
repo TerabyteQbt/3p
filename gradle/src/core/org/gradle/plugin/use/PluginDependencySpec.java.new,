@@ -1,0 +1,1 @@
+./3p/gradle/src/core/org/gradle/plugin/use/PluginDependencySpec.java mv ./3p/gradle/src/core/org/gradle/plugin/use/PluginDependencySpec.java.new ./3p/gradle/src/core/org/gradle/plugin/use/PluginDependencySpec.java

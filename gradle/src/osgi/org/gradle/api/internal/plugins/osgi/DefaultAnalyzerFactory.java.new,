@@ -1,0 +1,1 @@
+./3p/gradle/src/osgi/org/gradle/api/internal/plugins/osgi/DefaultAnalyzerFactory.java mv ./3p/gradle/src/osgi/org/gradle/api/internal/plugins/osgi/DefaultAnalyzerFactory.java.new ./3p/gradle/src/osgi/org/gradle/api/internal/plugins/osgi/DefaultAnalyzerFactory.java

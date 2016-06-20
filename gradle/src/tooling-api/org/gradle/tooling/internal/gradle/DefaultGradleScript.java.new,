@@ -1,0 +1,1 @@
+./3p/gradle/src/tooling-api/org/gradle/tooling/internal/gradle/DefaultGradleScript.java mv ./3p/gradle/src/tooling-api/org/gradle/tooling/internal/gradle/DefaultGradleScript.java.new ./3p/gradle/src/tooling-api/org/gradle/tooling/internal/gradle/DefaultGradleScript.java

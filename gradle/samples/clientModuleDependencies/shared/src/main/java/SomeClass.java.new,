@@ -1,0 +1,1 @@
+./3p/gradle/samples/clientModuleDependencies/shared/src/main/java/SomeClass.java mv ./3p/gradle/samples/clientModuleDependencies/shared/src/main/java/SomeClass.java.new ./3p/gradle/samples/clientModuleDependencies/shared/src/main/java/SomeClass.java
