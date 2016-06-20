@@ -1,0 +1,5 @@
+This repository contains artifacts from various third-party sources.  Each of these distributions
+are covered by their own licenses.  For jar files in the "mc" directory, the licenses are available
+on maven.org and via maven metadata, and the version information can be determined by consulting
+mc/.config.  They are only captured in this way for the purpose of reproducibility.
+
