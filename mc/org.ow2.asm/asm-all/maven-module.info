@@ -1,3 +1,3 @@
-Maven Module Version org.ow2.asm:asm-all:5.0
-633df150e42038c17128d369a5e6bfe80c05fcc3 src/jars/asm-all-5.0.jar
-600e0adfbe268535caa7f87ecf319a60eda0d9c6 src/sources/asm-all-5.0.jar
+Maven Module Version org.ow2.asm:asm-all:6.0_BETA
+535f141f6c8fc65986a3469839a852a3266d1025 src/jars/asm-all-6.0_BETA.jar
+d1ce213dc9f28569f908355e7abd16db1f331943 src/sources/asm-all-6.0_BETA.jar
