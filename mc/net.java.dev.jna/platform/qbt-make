@@ -8,5 +8,5 @@ set -e
 cp -R $PACKAGE_DIR/src/* $OUTPUT_ARTIFACTS_DIR/
 if [ -d $INPUT_ARTIFACTS_DIR/weak/qbt_fringe.link_checker.release ]
 then
-    $INPUT_ARTIFACTS_DIR/weak/qbt_fringe.link_checker.release/strong/qbt_fringe.link_checker.release/bin/link_checker --qbtDefaults 
+    $INPUT_ARTIFACTS_DIR/weak/qbt_fringe.link_checker.release/strong/qbt_fringe.link_checker.release/bin/link_checker --qbtDefaults --whitelistTo java/awt/Window
 fi
