@@ -1,3 +1,3 @@
-Maven Module Version org.apache.httpcomponents:httpcore:4.3.2
-31fbbff1ddbf98f3aa7377c94d33b0447c646b6e src/jars/httpcore-4.3.2.jar
-4809f38359edeea9487f747e09aa58ec8d3a54c5 src/sources/httpcore-4.3.2.jar
+Maven Module Version org.apache.httpcomponents:httpcore:4.4.9
+a86ce739e5a7175b4b234c290a00a5fdb80957a0 src/jars/httpcore-4.4.9.jar
+5808b4637c385d939e901eee3dc5f1121fc73a3b src/sources/httpcore-4.4.9.jar

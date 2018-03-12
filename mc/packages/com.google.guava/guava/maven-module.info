@@ -1,3 +1,3 @@
-Maven Module Version com.google.guava:guava:15.0
-ed727a8d9f247e2050281cb083f1c77b09dcb5cd src/jars/guava-15.0.jar
-36b6a585c0f0c63bd85fb04db0dcb7b217298956 src/sources/guava-15.0.jar
+Maven Module Version com.google.guava:guava:24.0-jre
+041ac1e74d6b4e1ea1f027139cffeb536c732a81 src/jars/guava-24.0-jre.jar
+04530f6a317a2d55e8903874896537dcf39717b7 src/sources/guava-24.0-jre.jar

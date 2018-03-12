@@ -1,0 +1,4 @@
+log4j:log4j:1.2.17
+logkit:logkit:1.0.1
+avalon-framework:avalon-framework:4.1.5
+javax.servlet:servlet-api:2.3
