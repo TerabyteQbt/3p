@@ -1,3 +1,3 @@
-Maven Module Version org.apache.ivy:ivy:2.4.0
-5abe4c24bbe992a9ac07ca563d5bd3e8d569e9ed src/jars/ivy-2.4.0.jar
-813c562d56030e07b64eaaf61cc19212babbd191 src/sources/ivy-2.4.0.jar
+Maven Module Version org.apache.ivy:ivy:2.5.0
+7cd93e73e91acb868717ebf2410f966f53ae5897 src/jars/ivy-2.5.0.jar
+ba3c22daa486954c968d0d9b322354ba65cb11b5 src/sources/ivy-2.5.0.jar

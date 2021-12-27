@@ -1,0 +1,4 @@
+nekohtml:xercesMinimal:1.9.6.2
+nekohtml:nekohtml:1.9.6.2
+commons-httpclient:commons-httpclient:3.1
+org.apache.maven.wagon:wagon-provider-api:1.0-beta-6

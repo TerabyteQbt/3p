@@ -10,10 +10,14 @@ MODULE:org.apache.commons:commons-lang3:3.7
 MODULE:org.apache.httpcomponents:httpclient:4.5.5
 MODULE:org.apache.ivy:ivy:2.4.0
 MODULE:org.apache.maven:maven-artifact:3.5.3
-MODULE:org.codehaus.groovy:groovy-all:2.4.14
+MODULE:org.codehaus.groovy:groovy:3.0.9
 MODULE:org.objenesis:objenesis:3.2
 MODULE:org.ow2.asm:asm:9.2
 MODULE:org.slf4j:slf4j-log4j12:1.7.25
+
+# older jaxens have a circular dependency, pulled in transitively by groovy,
+# try to fix that...
+MODULE:jaxen:jaxen:1.2.0
 
 # Apparently missing dependencies.  It's unclear which of above modules pulled
 # in each of but they sure as hell don't link check without them.
@@ -102,3 +106,9 @@ LINK_CHECKER_ARGS:mc.org.checkerframework.checker.compat.qual,--whitelistFrom or
 # to work around this, but almost all ivy functionality works without it.
 LINK_CHECKER_ARGS:mc.org.apache.ivy.ivy,--whitelistTo java/util/jar/Pack200
 LINK_CHECKER_ARGS:mc.org.apache.ivy.ivy,--whitelistTo java/util/jar/Pack200\$Unpacker
+
+# fix some transitive dependencies under groovy, this one has a POM that doesn't even parse
+REMOVE:*:*:*,jdom:jdom:b10
+
+# This is a cycle, you can't even make this shit up
+REMOVE:*:*:*,jaxen:jaxen:*

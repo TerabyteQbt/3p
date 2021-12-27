@@ -1,0 +1,7 @@
+org.apache.commons:commons-compress:1.0
+org.apache.maven:maven-plugin-api:2.1.0
+org.apache.maven:maven-project:2.1.0
+org.apache.maven:maven-artifact:2.1.0
+org.codehaus.plexus:plexus-utils:1.4.1
+org.apache.ant:ant:1.7.1
+org.bouncycastle:bcpg-jdk12:130

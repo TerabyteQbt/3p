@@ -1,0 +1,9 @@
+org.apache.maven:maven-settings:2.2.1
+org.apache.maven:maven-profile:2.2.1
+org.apache.maven:maven-model:2.2.1
+org.apache.maven:maven-artifact-manager:2.2.1
+org.apache.maven:maven-plugin-registry:2.2.1
+org.codehaus.plexus:plexus-interpolation:1.11
+org.codehaus.plexus:plexus-utils:1.5.15
+org.apache.maven:maven-artifact:2.2.1
+org.codehaus.plexus:plexus-container-default:1.0-alpha-9-stable-1

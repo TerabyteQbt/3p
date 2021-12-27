@@ -1,0 +1,4 @@
+xerces:xmlParserAPIs:2.6.2
+xerces:xercesImpl:2.6.2
+xalan:xalan:2.6.0
+com.ibm.icu:icu4j:2.6.1

@@ -1,0 +1,10 @@
+org.apache.ant:ant:1.9.14
+org.apache.httpcomponents:httpclient:4.5.9
+oro:oro:2.0.8
+org.apache.commons:commons-vfs2:2.2
+com.jcraft:jsch:0.1.55
+com.jcraft:jsch.agentproxy:0.0.9
+com.jcraft:jsch.agentproxy.connector-factory:0.0.9
+com.jcraft:jsch.agentproxy.jsch:0.0.9
+org.bouncycastle:bcpg-jdk15on:1.62
+org.bouncycastle:bcprov-jdk15on:1.62

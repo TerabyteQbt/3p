@@ -1,0 +1,5 @@
+com.thoughtworks.xstream:xstream:1.4.18
+org.fusesource.jansi:jansi:2.1.1
+org.apache.ivy:ivy:2.5.0
+org.codehaus.gpars:gpars:1.2.1
+com.tunnelvisionlabs:antlr4-runtime:4.9.0

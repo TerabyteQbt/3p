@@ -1,2 +1,3 @@
-Maven Module Version xml-apis:xml-apis:2.0.2
-b67030ed42207c646536afb680cdf2e4c132d80b src/gitkeep
+Maven Module Version xml-apis:xml-apis:1.4.01
+3789d9fada2d3d458c4ba2de349d48780f381ee3 src/jars/xml-apis-1.4.01.jar
+5502da0c4c0a7916a604356ef19394ccfa30cd4b src/sources/xml-apis-1.4.01.jar

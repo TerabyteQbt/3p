@@ -1,3 +1,3 @@
-Maven Module Version javax.servlet:servlet-api:2.3
-0137a24e9f62973f01f16dd23fc1b5a9964fd9ef src/jars/servlet-api-2.3.jar
-2b8664910b937aa77aaa388f2403ed019e37662e src/sources/servlet-api-2.3.jar
+Maven Module Version javax.servlet:servlet-api:2.5
+5959582d97d8b61f4d154ca9e495aafd16726e34 src/jars/servlet-api-2.5.jar
+021599814ad9a605b86f3e6381571beccd861a32 src/sources/servlet-api-2.5.jar

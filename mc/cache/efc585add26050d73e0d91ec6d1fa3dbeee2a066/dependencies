@@ -1,0 +1,8 @@
+org.apache.directory.server:apacheds-i18n:2.0.0-M15
+org.apache.directory.api:api-asn1-api:1.0.0-M20
+org.apache.directory.api:api-asn1-ber:1.0.0-M20
+org.apache.directory.api:api-i18n:1.0.0-M20
+org.apache.directory.api:api-ldap-model:1.0.0-M20
+org.apache.directory.api:api-util:1.0.0-M20
+net.sf.ehcache:ehcache-core:2.4.4
+org.slf4j:slf4j-api:1.7.5

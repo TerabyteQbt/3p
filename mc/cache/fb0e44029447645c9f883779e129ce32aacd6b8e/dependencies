@@ -1,0 +1,3 @@
+org.apache.ant:ant-launcher:1.8.0
+xerces:xercesImpl:2.9.0
+xml-apis:xml-apis:1.3.04

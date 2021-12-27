@@ -1,0 +1,2 @@
+org.apache.maven.wagon:wagon-http-shared:1.0-beta-6
+org.apache.maven.wagon:wagon-provider-api:1.0-beta-6

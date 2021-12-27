@@ -1,0 +1,2 @@
+org.mortbay.jetty:jetty-util:6.1.26
+org.mortbay.jetty:servlet-api:2.5-20081211

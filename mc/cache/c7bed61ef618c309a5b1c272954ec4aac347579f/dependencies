@@ -1,0 +1,13 @@
+org.slf4j:slf4j-api:1.6.1
+org.slf4j:slf4j-log4j12:1.6.1
+org.apache.maven.wagon:wagon-http:2.4
+org.apache.maven:maven-ant-tasks:2.1.3
+log4j:log4j:1.2.16
+jline:jline:0.9.94
+io.netty:netty:3.7.0.Final
+org.vafer:jdeb:0.8
+jdiff:jdiff:1.0.9
+xerces:xerces:1.4.4
+org.apache.rat:apache-rat-tasks:0.6
+commons-lang:commons-lang:2.4
+commons-collections:commons-collections:3.1

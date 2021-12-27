@@ -1,0 +1,4 @@
+org.apache.maven:maven-model:2.2.1
+org.codehaus.plexus:plexus-interpolation:1.11
+org.codehaus.plexus:plexus-utils:1.5.15
+org.codehaus.plexus:plexus-container-default:1.0-alpha-9-stable-1
