@@ -11,8 +11,8 @@ MODULE:org.apache.httpcomponents:httpclient:4.5.5
 MODULE:org.apache.ivy:ivy:2.4.0
 MODULE:org.apache.maven:maven-artifact:3.5.3
 MODULE:org.codehaus.groovy:groovy-all:2.4.14
-MODULE:org.objenesis:objenesis:2.6
-MODULE:org.ow2.asm:asm:6.1
+MODULE:org.objenesis:objenesis:3.2
+MODULE:org.ow2.asm:asm:9.2
 MODULE:org.slf4j:slf4j-log4j12:1.7.25
 
 # Apparently missing dependencies.  It's unclear which of above modules pulled
@@ -97,3 +97,8 @@ LINK_CHECKER_ARGS:mc.net.java.dev.jna.platform,--whitelistTo java/awt/Window
 
 LINK_CHECKER_ARGS:mc.org.checkerframework.checker.compat.qual,--whitelistFrom afu/org/checkerframework/checker/formatter
 LINK_CHECKER_ARGS:mc.org.checkerframework.checker.compat.qual,--whitelistFrom org/checkerframework/checker/formatter
+
+# As of JDK14, Pack200 is removed from the JDK.  There is no new version of ivy
+# to work around this, but almost all ivy functionality works without it.
+LINK_CHECKER_ARGS:mc.org.apache.ivy.ivy,--whitelistTo java/util/jar/Pack200
+LINK_CHECKER_ARGS:mc.org.apache.ivy.ivy,--whitelistTo java/util/jar/Pack200\$Unpacker

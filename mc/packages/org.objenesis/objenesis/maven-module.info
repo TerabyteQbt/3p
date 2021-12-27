@@ -1,3 +1,3 @@
-Maven Module Version org.objenesis:objenesis:2.6
-639033469776fd37c08358c6b92a4761feb2af4b src/jars/objenesis-2.6.jar
-96614f514a1031296657bf0dde452dc15e42fcb8 src/sources/objenesis-2.6.jar
+Maven Module Version org.objenesis:objenesis:3.2
+7fadf57620c8b8abdf7519533e5527367cb51f09 src/jars/objenesis-3.2.jar
+9f5da90020a255f25b6d8da8db273e2d38ce9805 src/sources/objenesis-3.2.jar
