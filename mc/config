@@ -18,20 +18,18 @@ MODULE:org.slf4j:slf4j-log4j12:1.7.25
 # older jaxens have a circular dependency, pulled in transitively by groovy,
 # try to fix that...
 MODULE:jaxen:jaxen:1.2.0
+# groovy also pulls in ivy, which is huge and also WTF
+REMOVE:org.codehaus.groovy:groovy:*,org.apache.ivy:ivy:*
+# some of groovy's dependencies try to pull in groovy-all.  lol.
+REMOVE:*:*:*,org.codehaus.groovy:groovy-all:*
+
+# these two conflict, I think javax.servlet is more correct?
+REWRITE:*:*:*,org.apache.felix:javax.servlet:*,javax.servlet:servlet-api:0
 
 # Apparently missing dependencies.  It's unclear which of above modules pulled
 # in each of but they sure as hell don't link check without them.
 ADD:net.java.dev.jna:platform:*,net.java.dev.jna:jna:0
-ADD:xalan:xalan:*,org.apache.bcel:bcel:6.2
-
-# Apparently stupid dependencies.  I have no idea how the fuck maven works, but
-# these shouldn't need anything to link check and our safety is sort of
-# dependent on their correct use of jarjar, etc.  Perhaps they are mistakenly
-# declaring dependencies on things they only need at their own build time?
-REMOVE:org.codehaus.groovy:groovy-all:*,*:*:*
-LINK_CHECKER_ARGS:mc.org.codehaus.groovy.groovy.all,--whitelistFrom groovy
-LINK_CHECKER_ARGS:mc.org.codehaus.groovy.groovy.all,--whitelistFrom groovyjarjarasm
-LINK_CHECKER_ARGS:mc.org.codehaus.groovy.groovy.all,--whitelistFrom org
+#ADD:xalan:xalan:*,org.apache.bcel:bcel:6.2
 
 # Rather than include this and fight all of its transitive shit we break it
 REMOVE:commons-logging:commons-logging:*,avalon-framework:avalon-framework:*
@@ -109,6 +107,45 @@ LINK_CHECKER_ARGS:mc.org.apache.ivy.ivy,--whitelistTo java/util/jar/Pack200\$Unp
 
 # fix some transitive dependencies under groovy, this one has a POM that doesn't even parse
 REMOVE:*:*:*,jdom:jdom:b10
+# and, on the subject of jdom, there was apparently a rename also?
+REWRITE:*:*:*,jdom:jdom:*,org.jdom:jdom:0
 
 # This is a cycle, you can't even make this shit up
 REMOVE:*:*:*,jaxen:jaxen:*
+
+# commons-beanutils was renamed to commons-beanutils-core from 1.7.0 to 1.8.0
+REWRITE:*:*:*,commons-beanutils:commons-beanutils:*,commons-beanutils:commons-beanutils-core:0
+
+# maven model 2.2.1 has classes which conflict with ant-tasks 2.1.3 so lock into 2.2.0
+REWRITE:*:*:*,org.apache.maven:maven-model:2.2.1,org.apache.maven:maven-model:2.2.0
+#MODULE:org.apache.maven:maven-model:2.2.0
+
+# Thanks to the disasterous transitive closure of dependecnies brought in by groovy 3.0.9, we see a three-way class conflict:
+# Classfile collision at org/xmlpull/v1/XmlPullParser.class: {3553297119=[xmlpull-1.1.3.1.jar, kxml2-min-2.3.0.jar, xpp3-1.1.3.3.jar], 2661163761=[xpp3_min-1.1.4c.jar]}
+# And, later:
+# Classfile collision at org/xmlpull/v1/XmlPullParser.class: {3553297119=[xpp3-1.1.3.3.jar], 2661163761=[xpp3_min-1.1.4c.jar]}
+# with the exception of org/kxml2/io/KXmlParser.class, xpp3 is a full superset of those other two jars, so we can rewrite the dep
+REWRITE:*:*:*,xmlpull:xmlpull:*,xpp3:xpp3:0
+REWRITE:*:*:*,net.sf.kxml:kxml2-min:*,xpp3:xpp3:0
+REWRITE:*:*:*,xpp3:xpp3_min:*,xpp3:xpp3:0
+
+# Classfile collision at org/w3c/dom/Element.class: {1482289105=[xmlParserAPIs-2.6.2.jar], 618287543=[xml-apis-1.4.01.jar]}
+# xml-apis appears to be mostly a superset, so we will rewrite:
+REWRITE:*:*:*,xerces:xmlParserAPIs:*,xml-apis:xml-apis:0
+
+# Classfile collision at javax/xml/stream/FactoryFinder.class: {3982995493=[xml-apis-1.4.01.jar], 366857991=[stax-api-1.0.1.jar]}
+# xml-apis is a superset of stax-api
+REWRITE:*:*:*,stax:stax-api:*,xml-apis:xml-apis:0
+
+# Classfile collision at org/xml/sax/helpers/XMLReaderFactory.class: {123766436=[pull-parser-2.jar], 995559851=[xml-apis-1.4.01.jar]}
+# xml-apis is superset of pull-parser-2... *except* for the org.gjt.xpp package.  Hopefully we don't need that
+REWRITE:*:*:*,pull-parser:pull-parser:*,xml-apis:xml-apis:0
+
+# Classfile collision at org/w3c/dom/UserDataHandler.class: {938959678=[xml-apis-1.4.01.jar], 3486089072=[xom-1.1.jar]}
+# xml-apis is a superset except for package nu.xom and org.jaxen.  *sigh*
+REWRITE:*:*:*,xom:xom:*,xml-apis:xml-apis:0
+
+# Classfile collision at javax/xml/XMLConstants.class: {3218073228=[xml-apis-1.4.01.jar], 3250919068=[jaxme-api-0.3.jar]}
+# in this comparison, xml-apis is only missing javax.xml.bind (and only some of it).
+REWRITE:*:*:*,jaxme:jaxme-api:*,xml-apis:xml-apis:0
+

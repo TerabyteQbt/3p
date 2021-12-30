@@ -1,0 +1,6 @@
+xerces:xercesImpl:2.6.1
+xerces:xmlParserAPIs:2.6.1
+org.jdom:jaxen-core:1.0-FCS
+org.jdom:jaxen-jdom:1.0-FCS
+org.jdom:saxpath:1.0-FCS
+xalan:xalan:2.5.D1

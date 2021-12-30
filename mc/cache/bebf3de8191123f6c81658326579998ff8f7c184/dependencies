@@ -1,0 +1,5 @@
+org.apache.ant:ant:1.7.0
+junit:junit:4.10
+org.beanshell:bsh:2.0b4
+com.beust:jcommander:1.27
+org.yaml:snakeyaml:1.6

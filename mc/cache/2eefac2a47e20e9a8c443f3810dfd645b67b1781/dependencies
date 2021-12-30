@@ -1,0 +1,9 @@
+ant:ant:1.6.2
+ant:ant-nodeps:1.6.2
+ant:ant-trax:1.6.2
+commons-httpclient:commons-httpclient:3.0
+oro:oro:2.0.8
+commons-vfs:commons-vfs:1.0
+com.jcraft:jsch:0.1.31
+org.bouncycastle:bcpg-jdk14:1.45
+org.bouncycastle:bcprov-jdk14:1.45

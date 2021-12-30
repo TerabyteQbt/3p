@@ -1,3 +1,2 @@
-Maven Module Version org.apache.ant:ant-launcher:1.9.14
-980c07e23cbf48252420689c3efa571efdc54cfb src/jars/ant-launcher-1.9.14.jar
-cb2a1d8e88a017d610f5cc963587e9c40f0885f2 src/sources/ant-launcher-1.9.14.jar
+Maven Module Version org.apache.ant:ant-launcher:1.7.1
+a9cbbcefbbb5e7f97596045268243a8c1c7aafca src/jars/ant-launcher-1.7.1.jar
